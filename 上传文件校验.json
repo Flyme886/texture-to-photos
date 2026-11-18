@@ -1,0 +1,3022 @@
+[
+  {
+    "path": "提示词素材库/分类总目录.md",
+    "bytes": 6668,
+    "sha256": "a4e4ecfa99aefc68846f9377b2ec7d446f977b100566b9e028f1834a5513fc65"
+  },
+  {
+    "path": "提示词素材库/全部提示词原文.md",
+    "bytes": 86869,
+    "sha256": "fb52254afe0a8d0483a254bc131e7f6d10ebc482ee0396c69be73c3505bd6e20"
+  },
+  {
+    "path": "提示词素材库/精简核验.json",
+    "bytes": 1111,
+    "sha256": "5b3602fd446ec9425e5a961d8f44654f204f7c2bc277d3d8d8da12db3b88db0e"
+  },
+  {
+    "path": "提示词素材库/采集与缺失说明.md",
+    "bytes": 1016,
+    "sha256": "32ca8a91441f2ac4126be2ffea3b0c4631f3646304e3ea3152516dd9bd52b8fd"
+  },
+  {
+    "path": "提示词素材库/058_01/02_后.jpg",
+    "bytes": 737971,
+    "sha256": "8cc356fd4a197ccb38be4fd3c70c894a5ab64d36b7e26e69ed1a42a566e95ebf"
+  },
+  {
+    "path": "提示词素材库/058_01/03_后.jpg",
+    "bytes": 399169,
+    "sha256": "c0d9a1955012cc3a2f201213673d2b0cfc29426e385a35dc790d28d8f6e54c53"
+  },
+  {
+    "path": "提示词素材库/058_01/01_后.jpg",
+    "bytes": 502876,
+    "sha256": "4d18e16d1abf4538151437d7d76a8ea2053264ac4155d49eeb3d4d787a70f1ea"
+  },
+  {
+    "path": "提示词素材库/058_01/README.md",
+    "bytes": 853,
+    "sha256": "7d9783363bda4aa557dfd7ba1d7149d6f1c72f18d79685f563505b8d403ec62e"
+  },
+  {
+    "path": "提示词素材库/058_01/素材对应.json",
+    "bytes": 665,
+    "sha256": "ea29c7d68b130fc036a0f9b638539e3e81bc825b91688bef47eb06cf2e5769ae"
+  },
+  {
+    "path": "提示词素材库/058_01/02_前.jpg",
+    "bytes": 731487,
+    "sha256": "dfbceb32d4b0fb4121b06f6ffcfcbd73eaeb3a5ad61158fc7f8046fbea037c20"
+  },
+  {
+    "path": "提示词素材库/058_01/提示词.txt",
+    "bytes": 483,
+    "sha256": "5bfbf845ee92fd3a69d8e3d54a53a50bb65cde44cd8f0c861d9dedc685f9d2b6"
+  },
+  {
+    "path": "提示词素材库/058_01/03_前.jpg",
+    "bytes": 566541,
+    "sha256": "6de4738df037b6b86d06f6f1a0798eddbe16019c3ccf3ff4d9593e4b78e2c6dd"
+  },
+  {
+    "path": "提示词素材库/058_01/01_前.jpg",
+    "bytes": 459143,
+    "sha256": "eaa8ec457c9f19672b02086f6b85cfd57c746e59d997c7b1e917c53f9abed54e"
+  },
+  {
+    "path": "提示词素材库/009_01/01_后.png",
+    "bytes": 668312,
+    "sha256": "20c07030e7f0e35a7d658ebfb2527ba1d2710846614e80865c7fff0a684541f5"
+  },
+  {
+    "path": "提示词素材库/009_01/README.md",
+    "bytes": 1453,
+    "sha256": "9a293a539c19267fb72f991eb0a14b2ca682f6f6eb3cf53d44ffb3e0f4c20788"
+  },
+  {
+    "path": "提示词素材库/009_01/素材对应.json",
+    "bytes": 345,
+    "sha256": "c204d900e2cba69ec31d35b6e52e63879070c829d5bc3bf3ed9e6fcd94f069d1"
+  },
+  {
+    "path": "提示词素材库/009_01/提示词.txt",
+    "bytes": 1262,
+    "sha256": "8de873c1329059ed6ed41c6dfc238020232f9c28391780323a37ba3b5b463e1b"
+  },
+  {
+    "path": "提示词素材库/009_01/01_前.png",
+    "bytes": 972283,
+    "sha256": "5ae660064d0f9d318e7bfd35d5278ebd78112d1c25f79c72512253a4011c9bd9"
+  },
+  {
+    "path": "提示词素材库/019_01/02_后.png",
+    "bytes": 1457707,
+    "sha256": "ef8b952f41373e4b28832210152084eebb0b47c4af2a7433297972311aa916a9"
+  },
+  {
+    "path": "提示词素材库/019_01/03_后.png",
+    "bytes": 1105217,
+    "sha256": "d428fa6fb8965303131e806dfaf8b7e793fe1e60594fa6a4e9f2f185038c27ca"
+  },
+  {
+    "path": "提示词素材库/019_01/01_后.png",
+    "bytes": 1213738,
+    "sha256": "426c5f62a272fe5b209433f7e6f4aae211999c9a2a7f7bc11215eac8b151cdbd"
+  },
+  {
+    "path": "提示词素材库/019_01/README.md",
+    "bytes": 2743,
+    "sha256": "5a9a7ac86e3272d6ae2df2b4358bedd08dbbf1edc4fe3d091c0e3d2cb5a74874"
+  },
+  {
+    "path": "提示词素材库/019_01/素材对应.json",
+    "bytes": 916,
+    "sha256": "b099ec2ec763ffaee7b906cc03a121cf5dc2853dd892e7fb6a907c8cb08ad200"
+  },
+  {
+    "path": "提示词素材库/019_01/02_前.png",
+    "bytes": 122505,
+    "sha256": "5234953e788a48428ae8360e27f16a3b126dc0bc00034635bfd394cf10763b37"
+  },
+  {
+    "path": "提示词素材库/019_01/提示词.txt",
+    "bytes": 2359,
+    "sha256": "06aa4ed90feeab1091a20512a415222d78f0aae0e03b891502650417d75da5e6"
+  },
+  {
+    "path": "提示词素材库/019_01/03_前.png",
+    "bytes": 45104,
+    "sha256": "9763d4a0fd201b1df35f1c5d2ac2b53c1b0527a0bfe7148f8ee80a0929ba4a1a"
+  },
+  {
+    "path": "提示词素材库/019_01/01_前.png",
+    "bytes": 107985,
+    "sha256": "a87c510c98c95c29fff2d615b099d2e7b0a9923fa9e488873c2aa848e579cd83"
+  },
+  {
+    "path": "提示词素材库/048_01/02_后.jpg",
+    "bytes": 392931,
+    "sha256": "2c465d5a154b1cafa067582dae26112beb560e983e927897cff88f9a42e9189e"
+  },
+  {
+    "path": "提示词素材库/048_01/03_后.jpg",
+    "bytes": 550298,
+    "sha256": "51f57f8f1ddcce6388f4991213ad7cb4d983e26dd311375218861fede238c5d8"
+  },
+  {
+    "path": "提示词素材库/048_01/01_后.jpg",
+    "bytes": 653599,
+    "sha256": "2a83cd9510b28c7c72760a2053a04be9b9acfc763b17a389ed2c429ace9ef49d"
+  },
+  {
+    "path": "提示词素材库/048_01/README.md",
+    "bytes": 1167,
+    "sha256": "b4f720a1953aa65fbb9d80a96746cf678a1420fccfc207a71604089b5a8f4ec2"
+  },
+  {
+    "path": "提示词素材库/048_01/素材对应.json",
+    "bytes": 665,
+    "sha256": "d4faee78ecc296ffb2678fdf73a776cd2f6cd96d910be837fafba26cb8bc8f55"
+  },
+  {
+    "path": "提示词素材库/048_01/02_前.jpg",
+    "bytes": 389244,
+    "sha256": "c0b54bef68c777bdb1544790c03d6bd937f58e3002aedb7da285bc876695a352"
+  },
+  {
+    "path": "提示词素材库/048_01/提示词.txt",
+    "bytes": 797,
+    "sha256": "36749963d2ab7afa989001326d757829dedababbd64cb4502925259e59c2c470"
+  },
+  {
+    "path": "提示词素材库/048_01/03_前.jpg",
+    "bytes": 751927,
+    "sha256": "3ef821f2272aa57bc1fa49d5ecc2fefc49dfd9c0702f0149e4bf8139e6e6db12"
+  },
+  {
+    "path": "提示词素材库/048_01/01_前.jpg",
+    "bytes": 1053093,
+    "sha256": "5b6a3dbbf2a028ff6ee507b534625257e3d0dd5019e2f6ac2d9ceb01431b295d"
+  },
+  {
+    "path": "提示词素材库/068_01/02_后.jpg",
+    "bytes": 505618,
+    "sha256": "6eb1cf5d540660a7c8de018ca5133b29e97cb448603e1bd05d8742c15889c185"
+  },
+  {
+    "path": "提示词素材库/068_01/03_后.jpg",
+    "bytes": 403474,
+    "sha256": "92e47ebf9ed8691a1309b2c151c393a1989c961ebb4a5521d35ee628a9ad6088"
+  },
+  {
+    "path": "提示词素材库/068_01/01_后.jpg",
+    "bytes": 768372,
+    "sha256": "3ee20dbc3454cf6505fe9c2cf2e7edce15e8e1d9d1ca6b6d3e98375b26e0a55a"
+  },
+  {
+    "path": "提示词素材库/068_01/README.md",
+    "bytes": 1042,
+    "sha256": "9a5f895351c92581fc11f2879ce193807671fee965f6e3cdbe42842bc99a266b"
+  },
+  {
+    "path": "提示词素材库/068_01/素材对应.json",
+    "bytes": 673,
+    "sha256": "6301c373966bafa24f6c292e4ed070054ecfd74ccded1472aa8f458d5a5c75de"
+  },
+  {
+    "path": "提示词素材库/068_01/02_前.jpg",
+    "bytes": 473827,
+    "sha256": "9d47a33388598fdb41759ce9dedb76db9a6d0ce031b09484016e55586b727c5c"
+  },
+  {
+    "path": "提示词素材库/068_01/提示词.txt",
+    "bytes": 664,
+    "sha256": "fd916bc69844a18c31dff61d0d379ab276880e34d033627e05e61fb879c8a420"
+  },
+  {
+    "path": "提示词素材库/068_01/03_前.jpg",
+    "bytes": 362287,
+    "sha256": "4c49f0c74818760de988d130cf8424da72c558eaab44189fae73de7164929898"
+  },
+  {
+    "path": "提示词素材库/068_01/01_前.jpg",
+    "bytes": 915726,
+    "sha256": "ef5e246782283d9181e9f1010474df3e733ab37a9998fbe3a7970017d503728a"
+  },
+  {
+    "path": "提示词素材库/039_01/02_后.png",
+    "bytes": 2861335,
+    "sha256": "c41944fae5357e4e02a5b7fdc5af72fe1ab7764c342e4e7fcd0771dd1bffd83b"
+  },
+  {
+    "path": "提示词素材库/039_01/03_后.png",
+    "bytes": 3001099,
+    "sha256": "7e96feacbe50490769bab2b1c3cedba972fb41d47625102fd4bdb1ccbb8bb6ab"
+  },
+  {
+    "path": "提示词素材库/039_01/01_后.png",
+    "bytes": 3232858,
+    "sha256": "e91a6ec71832db2ecbede4c12bd2fe6915aa94f3827f2b9c63a00a0c5a6ffd16"
+  },
+  {
+    "path": "提示词素材库/039_01/README.md",
+    "bytes": 1522,
+    "sha256": "9df12de71ff152268212f20c56c49d6cdd3a743eb945c20f6f5c7b458b9c371a"
+  },
+  {
+    "path": "提示词素材库/039_01/素材对应.json",
+    "bytes": 889,
+    "sha256": "ae5cb5f8b247277fc66bdf8988a7636d0e13208d11ded8b257e0b5283774e496"
+  },
+  {
+    "path": "提示词素材库/039_01/02_前.png",
+    "bytes": 2726297,
+    "sha256": "0bb7282e0adafc36723fdc74943f52d016317063c90294989428da93aae2d822"
+  },
+  {
+    "path": "提示词素材库/039_01/提示词.txt",
+    "bytes": 1162,
+    "sha256": "f020a6fbdac4db431de8661232fc6a3d71d4c22cb9d54b2b445a81ad544aced8"
+  },
+  {
+    "path": "提示词素材库/039_01/03_前.png",
+    "bytes": 3634165,
+    "sha256": "badf462481253dd1dbe6b9491b3972ddfbc48ed2a4b03eecb54ffcc6f7469a20"
+  },
+  {
+    "path": "提示词素材库/039_01/01_前.png",
+    "bytes": 3183891,
+    "sha256": "cfa5276153f1135a894669dcb11ab6431a789992d85d0e33478a3b055c97d8d9"
+  },
+  {
+    "path": "提示词素材库/029_01/02_后.png",
+    "bytes": 2680186,
+    "sha256": "5574538b2cf18ccafa2318e660f6c80b650888f9bcd5e4e3a1f638b3f76d1cd4"
+  },
+  {
+    "path": "提示词素材库/029_01/03_后.png",
+    "bytes": 2519039,
+    "sha256": "959a08590eaae853676cd291819d4909be77584d43e3bd556f6e79a7613ffafb"
+  },
+  {
+    "path": "提示词素材库/029_01/01_后.png",
+    "bytes": 2639548,
+    "sha256": "169086bd32d536f3a9d25f26b7b548ac1b92c2bf4e9f834ea51c96be09012cc2"
+  },
+  {
+    "path": "提示词素材库/029_01/README.md",
+    "bytes": 1330,
+    "sha256": "efb8156cd86c8228d55132381b303cd9e4eabcc6a7b2b806cee6cbdd073bbf10"
+  },
+  {
+    "path": "提示词素材库/029_01/素材对应.json",
+    "bytes": 910,
+    "sha256": "b2013af610000c6a3839821a76ec49fc92960d9732021b08f188990d26617b64"
+  },
+  {
+    "path": "提示词素材库/029_01/02_前.png",
+    "bytes": 2853520,
+    "sha256": "3a3ecdda902ada3fd674b7a9437f066169615cc3d1e8c7c4335652b065960369"
+  },
+  {
+    "path": "提示词素材库/029_01/提示词.txt",
+    "bytes": 949,
+    "sha256": "4ee0cca881fbb355fc2f6792c47cc8f64991547b7f8a99ae05078cadab10b964"
+  },
+  {
+    "path": "提示词素材库/029_01/03_前.png",
+    "bytes": 2864863,
+    "sha256": "19e6d2fd00f93c56cb7bad61b86b05baf84429623763241fcb2d4bd15d5570fd"
+  },
+  {
+    "path": "提示词素材库/029_01/01_前.png",
+    "bytes": 2533145,
+    "sha256": "e9525a21ab6ae9e1672ca4aa6872154377a327a292fec794b862b0dec4b1020a"
+  },
+  {
+    "path": "提示词素材库/038_01/02_后.png",
+    "bytes": 1247359,
+    "sha256": "599bcf237c9f3f145c5162da28bd4fafa9bfb5c26951a8828594a15162177efc"
+  },
+  {
+    "path": "提示词素材库/038_01/03_后.png",
+    "bytes": 1715472,
+    "sha256": "80f985d263ce24656822cf91789932a0bc52e98a15c82599788003f7341c53cc"
+  },
+  {
+    "path": "提示词素材库/038_01/01_后.png",
+    "bytes": 3339568,
+    "sha256": "ea9a36ff8fba2b0450bc8dee7b8da96cbbbac01b0e91701d40cbcc9027ff2e5c"
+  },
+  {
+    "path": "提示词素材库/038_01/README.md",
+    "bytes": 630,
+    "sha256": "801413f4e11ced9adabe48872316a89b5f50104b06aca38bb377507af7163840"
+  },
+  {
+    "path": "提示词素材库/038_01/素材对应.json",
+    "bytes": 886,
+    "sha256": "5a14d6704f38b9b4c756e81d0fd8432cfb64fcf1a04adb8565a40ce3eb3b1d36"
+  },
+  {
+    "path": "提示词素材库/038_01/02_前.png",
+    "bytes": 1370906,
+    "sha256": "4200eab3488d097fbd6bc06d5d11b3bf040a84f219a6748ae7630f8c8eba67e2"
+  },
+  {
+    "path": "提示词素材库/038_01/提示词.txt",
+    "bytes": 273,
+    "sha256": "0dde6004ffa298492f3518b71005e94b85d75ecf80887ded48454703d7af7b22"
+  },
+  {
+    "path": "提示词素材库/038_01/03_前.png",
+    "bytes": 2493022,
+    "sha256": "bba16171131e39286406e0a03b29b6203bbeb1a4827edd071194d856cfc7be61"
+  },
+  {
+    "path": "提示词素材库/038_01/01_前.png",
+    "bytes": 4003434,
+    "sha256": "6ecb1c4038910a32960361aeefb0d6fd209333c1669cd5a7b42cc892d7fc448e"
+  },
+  {
+    "path": "提示词素材库/028_01/02_后.png",
+    "bytes": 530567,
+    "sha256": "49ea581dfdb98a1f20bf5acc3c11d43b641265119431f9c16cda173884b8c77b"
+  },
+  {
+    "path": "提示词素材库/028_01/03_后.png",
+    "bytes": 898519,
+    "sha256": "41eeec04f82f28b3a75596ff8528f6e05b89aded62445030b56c0d9b8cd65a0a"
+  },
+  {
+    "path": "提示词素材库/028_01/01_后.png",
+    "bytes": 708525,
+    "sha256": "6b9f08360f042915b40fe4a1633fe0407bb7cbdc4b10771c806dfc999a206774"
+  },
+  {
+    "path": "提示词素材库/028_01/README.md",
+    "bytes": 1485,
+    "sha256": "b1767d90ae8502b58d4eefc968d85cf5c4a6736649ce36bb5a76cfdf6ec03f7d"
+  },
+  {
+    "path": "提示词素材库/028_01/素材对应.json",
+    "bytes": 990,
+    "sha256": "cfa5710dee765832a030e4cb4c9f41a98b9451a95d0342618916e315ecd9843a"
+  },
+  {
+    "path": "提示词素材库/028_01/02_前.png",
+    "bytes": 503456,
+    "sha256": "a6e3dcb0376a6943cec5a73a645f10c1d0c0ef85cf61afa2abfac672111f145b"
+  },
+  {
+    "path": "提示词素材库/028_01/提示词.txt",
+    "bytes": 1078,
+    "sha256": "c7a9bf02537cde7062b960252dfa3b7490f758829999b0d16d46069f6be79761"
+  },
+  {
+    "path": "提示词素材库/028_01/03_前.png",
+    "bytes": 876725,
+    "sha256": "561f2152ebd81c25ce6195a9fcc8194a4852da22f1712c2b3977ce1fb594f406"
+  },
+  {
+    "path": "提示词素材库/028_01/01_前.png",
+    "bytes": 555735,
+    "sha256": "05716252ede535a1dc3d9ce2a7a557a1657dde45a40f606221ee90bc8fc7bb48"
+  },
+  {
+    "path": "提示词素材库/059_01/02_后.jpg",
+    "bytes": 488051,
+    "sha256": "7d0b2a93935316d8ede19fbb315b2a4da0bca2ade804af7c0fccff7c263729e5"
+  },
+  {
+    "path": "提示词素材库/059_01/03_后.jpg",
+    "bytes": 399609,
+    "sha256": "d91c297cbc23f3eb01418e7e287203ffcdab2a717dbb1b6b9f8797bcc108ae48"
+  },
+  {
+    "path": "提示词素材库/059_01/01_后.jpg",
+    "bytes": 328780,
+    "sha256": "d4c9999db4e37d30cb9d42ee7c4bfecdce1e743faf7c245260507463a7868267"
+  },
+  {
+    "path": "提示词素材库/059_01/README.md",
+    "bytes": 1187,
+    "sha256": "480c65974e284308796a29d5ed917bf4a38191bdb6ee984de6dbf0167120a0c6"
+  },
+  {
+    "path": "提示词素材库/059_01/素材对应.json",
+    "bytes": 658,
+    "sha256": "bc5c927f6c45168e30d5bcc694a33019531838ebb8f22da7d069ce5a45cfd4ec"
+  },
+  {
+    "path": "提示词素材库/059_01/02_前.jpg",
+    "bytes": 620906,
+    "sha256": "0955ee2df4485e2c3ee6196bfc41e756868b6bbc720205489db2cf5872f5631b"
+  },
+  {
+    "path": "提示词素材库/059_01/提示词.txt",
+    "bytes": 824,
+    "sha256": "4abda59d7b0351c920c23ffcaeab3d357b65200bd2cfde3147ae1de95beac465"
+  },
+  {
+    "path": "提示词素材库/059_01/03_前.jpg",
+    "bytes": 559509,
+    "sha256": "8f07c629183aa7c003b675eef8b4ee821096e07362980561001ad6642165c2a7"
+  },
+  {
+    "path": "提示词素材库/059_01/01_前.jpg",
+    "bytes": 415142,
+    "sha256": "6fee234891d3e8ce6f3485d87d653cc0ffdd1172231306de1df207dbf3d93652"
+  },
+  {
+    "path": "提示词素材库/008_01/02_后.png",
+    "bytes": 1960169,
+    "sha256": "4061f46f826486bb1d721b337e029731d201edd0616c5dfc6bc8df10c9ce7c5e"
+  },
+  {
+    "path": "提示词素材库/008_01/03_后.png",
+    "bytes": 2233250,
+    "sha256": "0cc14702a0c72fa137554727c09f7fd65d414b90918eaf9b04210f75459b657b"
+  },
+  {
+    "path": "提示词素材库/008_01/01_后.png",
+    "bytes": 2348187,
+    "sha256": "c6c639ce7461031386064a47761e48c69552ca05a98f2f02eed666b53f0c2642"
+  },
+  {
+    "path": "提示词素材库/008_01/README.md",
+    "bytes": 1762,
+    "sha256": "2e9075536747957e6b65390909611e1c80da4330ab6532283d6eaed8a685df43"
+  },
+  {
+    "path": "提示词素材库/008_01/素材对应.json",
+    "bytes": 718,
+    "sha256": "6b78aba282e0e3698daa3a950a169c98b86f046bbc5d7b143fa7d5f625ca6e44"
+  },
+  {
+    "path": "提示词素材库/008_01/02_前.png",
+    "bytes": 2074777,
+    "sha256": "d2c07971ad6e06461d44bd7f0ed2e23d71519aec2b2f7b53af573b80fa50f080"
+  },
+  {
+    "path": "提示词素材库/008_01/提示词.txt",
+    "bytes": 1381,
+    "sha256": "6699a3feb8e012b49ae77dfc4630a7d764509acbb914750d0ab1097fbbd1ab3b"
+  },
+  {
+    "path": "提示词素材库/008_01/03_前.png",
+    "bytes": 2433032,
+    "sha256": "fe6aa74a32473be6b560894da2179e9a5a37f567b61588cf8bbc1de90cd919cf"
+  },
+  {
+    "path": "提示词素材库/008_01/01_前.png",
+    "bytes": 2364930,
+    "sha256": "98d34a983955c9d151d6c5bc9ed199e70d9469eb5dabb08284d8098e5d9def06"
+  },
+  {
+    "path": "提示词素材库/018_01/02_后.png",
+    "bytes": 3124833,
+    "sha256": "aaa9171c5f44b8986a2d7d807b26fdd695079272b65479e192df99eeb20faae6"
+  },
+  {
+    "path": "提示词素材库/018_01/01_后.png",
+    "bytes": 2423039,
+    "sha256": "a93357be2d7367993a3da12c9bbc305af74fc32799b5ad624a6a6538cc584857"
+  },
+  {
+    "path": "提示词素材库/018_01/README.md",
+    "bytes": 1288,
+    "sha256": "3eae72c4a9b6349d9f7967a22955e4653bfd44afc80e92758e4f40f62d8e3556"
+  },
+  {
+    "path": "提示词素材库/018_01/素材对应.json",
+    "bytes": 636,
+    "sha256": "20b69ab006a6040b793ccc302a2bc9d2d0add5ae74e0c1008e3780a148d014f9"
+  },
+  {
+    "path": "提示词素材库/018_01/02_前.png",
+    "bytes": 291695,
+    "sha256": "4dcdf067e081bf1cc962c00d0bb59e5f0118ac294056f38b1990e3aade114c29"
+  },
+  {
+    "path": "提示词素材库/018_01/提示词.txt",
+    "bytes": 1026,
+    "sha256": "85ee53cc6aee6b30891a4a0feb40bedf49580474d960c06b3cb21c254aa802c0"
+  },
+  {
+    "path": "提示词素材库/018_01/01_前.png",
+    "bytes": 188022,
+    "sha256": "3519f9083035d08668157a64760c2f7e9ab13c8592454349eb5096f466d21465"
+  },
+  {
+    "path": "提示词素材库/049_01/02_后.jpg",
+    "bytes": 105928,
+    "sha256": "a11e5b4cdee478ac57c93c904b1f07cb90fd3228db6b509886999facfb68f17c"
+  },
+  {
+    "path": "提示词素材库/049_01/03_后.jpg",
+    "bytes": 142403,
+    "sha256": "5e4e34defd54d0c388a091fb7329fb60e8f0c48f3eaf8907c39b197c7df663d3"
+  },
+  {
+    "path": "提示词素材库/049_01/01_后.jpg",
+    "bytes": 186942,
+    "sha256": "d7b5b40a38fa932b6d7cd7db4d7ffec2f3d10be7502a6ab6111080202b16a86b"
+  },
+  {
+    "path": "提示词素材库/049_01/README.md",
+    "bytes": 1796,
+    "sha256": "1b628b7acce55f98b3fb3e4a1128b091c7cfd3fb8f22771f4939f1ba580754a2"
+  },
+  {
+    "path": "提示词素材库/049_01/素材对应.json",
+    "bytes": 1031,
+    "sha256": "ddf58a2dec825e07cdbbb4c53782d46db2a85565f2063d201dacfb8e44eabf3f"
+  },
+  {
+    "path": "提示词素材库/049_01/02_前.jpg",
+    "bytes": 65015,
+    "sha256": "03401eebe25011ee1b513ad293074f12c6c3889d828ce5cd9089253dbcc610b8"
+  },
+  {
+    "path": "提示词素材库/049_01/提示词.txt",
+    "bytes": 1420,
+    "sha256": "45f4639e396ea245d58614cad79353e17385abb4adaa0db6b11ee023b4cd57b8"
+  },
+  {
+    "path": "提示词素材库/049_01/03_前.jpg",
+    "bytes": 112085,
+    "sha256": "3a5e580d71b217289e613c197f84c7b5982231123ff1ced99fd6fe3a65fcd3c3"
+  },
+  {
+    "path": "提示词素材库/049_01/01_前.jpg",
+    "bytes": 183868,
+    "sha256": "38f7d77aa80e0f7d4a46670e293e43e458fbf17d648b8050211ea2b6858b25a9"
+  },
+  {
+    "path": "提示词素材库/052_01/02_后.jpg",
+    "bytes": 513064,
+    "sha256": "a30779c7bc8d083905f9d8a07f300388d5b11163429192da5f24b0290dbbe0ff"
+  },
+  {
+    "path": "提示词素材库/052_01/03_后.jpg",
+    "bytes": 607171,
+    "sha256": "37aff373d3f03b08528bc9cd72a51098e3772d1f88ab8d6988fa85a04613f6c5"
+  },
+  {
+    "path": "提示词素材库/052_01/01_后.jpg",
+    "bytes": 672417,
+    "sha256": "873e024617e71f6584f819011c7e4ad78cbad3b87318fca40c54ca261db6ea53"
+  },
+  {
+    "path": "提示词素材库/052_01/README.md",
+    "bytes": 834,
+    "sha256": "0e617093c8c03f41b3713d3e0d223c2bb943110768149a9266e19e59fae6aed5"
+  },
+  {
+    "path": "提示词素材库/052_01/素材对应.json",
+    "bytes": 655,
+    "sha256": "ab932f3f7792b80e7072ac93643a0e7aebd8e5a9bfad04c07ac145bff86a0668"
+  },
+  {
+    "path": "提示词素材库/052_01/02_前.jpg",
+    "bytes": 532526,
+    "sha256": "e9c15877c54b2264ac3cc9cc74a463d94acb63bcfe964d7ddb0b29f95d51b122"
+  },
+  {
+    "path": "提示词素材库/052_01/提示词.txt",
+    "bytes": 474,
+    "sha256": "c028a60e1e83bf0b594d9975d737d1bf4208b328c0bea0a4446579951eaa07c8"
+  },
+  {
+    "path": "提示词素材库/052_01/03_前.jpg",
+    "bytes": 766664,
+    "sha256": "d926e1b30b46dcfa955e9a472171a788a0ca670a33984bc9ed29b6e28476c859"
+  },
+  {
+    "path": "提示词素材库/052_01/01_前.jpg",
+    "bytes": 689709,
+    "sha256": "6dd0a64a160a0047437ba9939700d760304f2da5ee434e65d63c94e7dbe691a5"
+  },
+  {
+    "path": "提示词素材库/003_01/02_后.png",
+    "bytes": 1746182,
+    "sha256": "8bbdf8a9d61985a662e08063801c146ef2b9c46d380b3e807dc66536f43abae4"
+  },
+  {
+    "path": "提示词素材库/003_01/03_后.png",
+    "bytes": 1597051,
+    "sha256": "6174febb97d650015f5c8ab9656cc76e95d6c142e6667d63d0fc7cdc3889f508"
+  },
+  {
+    "path": "提示词素材库/003_01/01_后.png",
+    "bytes": 1636868,
+    "sha256": "55990ffde7dface116d64f7c79dfda9b2902452ec3bfb47bd588754922eb6849"
+  },
+  {
+    "path": "提示词素材库/003_01/README.md",
+    "bytes": 1629,
+    "sha256": "3429aa8f44cd156d90828ec5fd7491c594e87b5b47fbf820c1a7af3bb2cbff5b"
+  },
+  {
+    "path": "提示词素材库/003_01/素材对应.json",
+    "bytes": 696,
+    "sha256": "65f3ae057f0e06c8619f8b7fa5103e5ead25dcee4e74fce29e11026489c2b8c0"
+  },
+  {
+    "path": "提示词素材库/003_01/02_前.png",
+    "bytes": 1973283,
+    "sha256": "134bad7abdea7e6d24f456a630b79c8674880639109ab74e17035e999fbbce94"
+  },
+  {
+    "path": "提示词素材库/003_01/提示词.txt",
+    "bytes": 1174,
+    "sha256": "71da3897476ce6c606d466dcdde3a53fde1fe3d8100b14947ac370fce852ff3e"
+  },
+  {
+    "path": "提示词素材库/003_01/03_前.png",
+    "bytes": 1628845,
+    "sha256": "4740989ddd8ef5a8a19ca5e9011307e725898e53a6bff77df84e631ae27c8e38"
+  },
+  {
+    "path": "提示词素材库/003_01/01_前.png",
+    "bytes": 1993520,
+    "sha256": "bf6120e66723670efe8b621d1f5aca44855c44ec12d5a13f24fa5d466b500161"
+  },
+  {
+    "path": "提示词素材库/037_01/02_后.png",
+    "bytes": 4871330,
+    "sha256": "02c278b89067e0d2ec0645a2fe820baed834b22cc8613ff661fcaa03b74444b7"
+  },
+  {
+    "path": "提示词素材库/037_01/03_后.png",
+    "bytes": 3324750,
+    "sha256": "7ace7733aebab8b079a239d37d921c15e04711947a777cca413dba257f601972"
+  },
+  {
+    "path": "提示词素材库/037_01/01_后.png",
+    "bytes": 3221043,
+    "sha256": "c72ce6f3585f3ef008a0a7955468b23164eb5892c539200391ce396a9b13b627"
+  },
+  {
+    "path": "提示词素材库/037_01/README.md",
+    "bytes": 851,
+    "sha256": "fd7f91cd1f0f75610e893b65e187d9af00b53f1924412f7eb3699e25f78c4aa1"
+  },
+  {
+    "path": "提示词素材库/037_01/素材对应.json",
+    "bytes": 920,
+    "sha256": "818873d1f23929c090d36580ad9d2a304c1625360aa1bffd10f4a30c556e6e46"
+  },
+  {
+    "path": "提示词素材库/037_01/02_前.png",
+    "bytes": 4888376,
+    "sha256": "4fd9229fc310ab04169b640b693a146c8a22acd6e72e331a97d8fc8dca70afae"
+  },
+  {
+    "path": "提示词素材库/037_01/提示词.txt",
+    "bytes": 460,
+    "sha256": "bad3a5d7e7fd2129aae59dcfff1982979b032315d3a5470aa945404110decaeb"
+  },
+  {
+    "path": "提示词素材库/037_01/03_前.png",
+    "bytes": 2785019,
+    "sha256": "df5a530cfecb35adc18e5822fce8e1371e8c825acf7bd7a52715fe90dea0a80a"
+  },
+  {
+    "path": "提示词素材库/037_01/01_前.png",
+    "bytes": 2945108,
+    "sha256": "ed5de53d6d6cdd2fa1c350aff511b9f731ec4d64e02d462552f0afd0f6014aae"
+  },
+  {
+    "path": "提示词素材库/066_01/02_后.jpg",
+    "bytes": 314158,
+    "sha256": "0f379811cc68d0ff6dbfd366432c6e02aa1905130d02d0b1c170e6a1655b067c"
+  },
+  {
+    "path": "提示词素材库/066_01/03_后.jpg",
+    "bytes": 498124,
+    "sha256": "759ae67fdea2f09dd809a8e8dc748963fecc3886b28ffbf5e8288621eb29c6d5"
+  },
+  {
+    "path": "提示词素材库/066_01/01_后.jpg",
+    "bytes": 409457,
+    "sha256": "f22c98b3d4cb341f62974ca1636450fb4b11b742ca49e9630d31df7a2fcfd87c"
+  },
+  {
+    "path": "提示词素材库/066_01/README.md",
+    "bytes": 913,
+    "sha256": "6613db271f55e143b7320895b41cb50986f67d3f7e0e49284cb8b3cb28f0acc2"
+  },
+  {
+    "path": "提示词素材库/066_01/素材对应.json",
+    "bytes": 676,
+    "sha256": "d88acb38598c277f8d69389effe815cea1ee16c1bde645a7c04b4cc88ac26c28"
+  },
+  {
+    "path": "提示词素材库/066_01/02_前.jpg",
+    "bytes": 221838,
+    "sha256": "aed7c094ce5d8769d74878cc020708f55bb0b2af0f678ca715bbe13a98ddc4de"
+  },
+  {
+    "path": "提示词素材库/066_01/提示词.txt",
+    "bytes": 532,
+    "sha256": "a426c298b7d89d69634a63d6813af9d9e21218785358806d4324a3868d90cfe2"
+  },
+  {
+    "path": "提示词素材库/066_01/03_前.jpg",
+    "bytes": 620112,
+    "sha256": "c8223344b63d5915143426b21f45b66731df81f89bf7d460a68a599ee6872f13"
+  },
+  {
+    "path": "提示词素材库/066_01/01_前.jpg",
+    "bytes": 358131,
+    "sha256": "86b227518121608704e11c5f573bf8b39a8493f59bed17a87d7353f9e78fe85b"
+  },
+  {
+    "path": "提示词素材库/027_01/02_后.png",
+    "bytes": 3327446,
+    "sha256": "8d9d82db75e427541cf04fef8a472c738407d24793c9f6ca830c31c1cf3ffc84"
+  },
+  {
+    "path": "提示词素材库/027_01/03_后.png",
+    "bytes": 3575971,
+    "sha256": "8cb3f92d4fe992c8270537237de411b69a3c4aa2aa218f50f72c868cb5ccce8e"
+  },
+  {
+    "path": "提示词素材库/027_01/01_后.png",
+    "bytes": 3443762,
+    "sha256": "2b4972099993233158aeaf9d10ab6c1f6b21d9479754a619604c526208bed55c"
+  },
+  {
+    "path": "提示词素材库/027_01/README.md",
+    "bytes": 1377,
+    "sha256": "5b7583c6a44c0fde384980e89af3a4a21d510d2b1a0cd8c1a2777ec99124960c"
+  },
+  {
+    "path": "提示词素材库/027_01/素材对应.json",
+    "bytes": 916,
+    "sha256": "b307495381d0c7261de4a06ec434913cd4d3cacdcdeb003fedd37e576cc0b808"
+  },
+  {
+    "path": "提示词素材库/027_01/02_前.png",
+    "bytes": 3221785,
+    "sha256": "4257c5a336d16de3b3680cffbbef7e8ec30d091ac08af1426b8371047b317164"
+  },
+  {
+    "path": "提示词素材库/027_01/提示词.txt",
+    "bytes": 990,
+    "sha256": "551dfeff1e040a9a2cd596859e2355abf023c37dc18ee02f19ad729abe83a8ab"
+  },
+  {
+    "path": "提示词素材库/027_01/03_前.png",
+    "bytes": 3224070,
+    "sha256": "c077c9c8da2023448157b5e29bf2166d02098475c0d6ec23b84f8733f4990054"
+  },
+  {
+    "path": "提示词素材库/027_01/01_前.png",
+    "bytes": 3424112,
+    "sha256": "3495bc886a2ea28517224b0012094f60f320cd7e6b2da2adc392382fe0dd2f4d"
+  },
+  {
+    "path": "提示词素材库/013_01/02_后.png",
+    "bytes": 1302701,
+    "sha256": "42748797f6a89c1151ef90cd4838adcfb8926067e106d420d474e70fa597f041"
+  },
+  {
+    "path": "提示词素材库/013_01/03_后.png",
+    "bytes": 1198174,
+    "sha256": "447c9cad1771ee2f81440d590632478da20ce47ffd80b2005673d10ae1ba13b2"
+  },
+  {
+    "path": "提示词素材库/013_01/01_后.png",
+    "bytes": 926261,
+    "sha256": "fc24c92d32d85f35831ba1e706b10896b3f4171423924e0dabb7a8b3f060476c"
+  },
+  {
+    "path": "提示词素材库/013_01/README.md",
+    "bytes": 2011,
+    "sha256": "3186d101a39a54dc768cb8d94864a7c575cb8153cdf68c75e3116a2bbac2a7c0"
+  },
+  {
+    "path": "提示词素材库/013_01/素材对应.json",
+    "bytes": 730,
+    "sha256": "05d22cf1a5bbbdcccdf9a762f8216ddbfb8ad7be177ced7dae35d63281e868f8"
+  },
+  {
+    "path": "提示词素材库/013_01/02_前.png",
+    "bytes": 1187346,
+    "sha256": "a360f5c2daaf57e29b33e2781450118f354c4e74adfaa1192249a161c959496d"
+  },
+  {
+    "path": "提示词素材库/013_01/提示词.txt",
+    "bytes": 1627,
+    "sha256": "d188830509fc7938ea638efc0c663105bcab80448cebf121d70d9962f58df7e7"
+  },
+  {
+    "path": "提示词素材库/013_01/03_前.png",
+    "bytes": 1077864,
+    "sha256": "ee5a699dc562af14b630f078401c15abdf932ad2a5e8bb89280eb52027894b28"
+  },
+  {
+    "path": "提示词素材库/013_01/01_前.png",
+    "bytes": 817941,
+    "sha256": "7b06d77a39d110449a2c6eb2d858e011654c16ce812e1d330a5884ed7eee280a"
+  },
+  {
+    "path": "提示词素材库/042_01/02_后.png",
+    "bytes": 2432281,
+    "sha256": "43ae1e3474581c94baaccafa44754934f57f66a7589427bab85e52c1f116b1b9"
+  },
+  {
+    "path": "提示词素材库/042_01/03_后.png",
+    "bytes": 2759425,
+    "sha256": "2510a458a811d356dfaeb276ef2d2db5540722cdc59a3240ad8ef3355cf4053b"
+  },
+  {
+    "path": "提示词素材库/042_01/01_后.png",
+    "bytes": 2501564,
+    "sha256": "23161f805045de5c1bea10778e06631425c9b6d06678a1d81691b04a5908adc7"
+  },
+  {
+    "path": "提示词素材库/042_01/README.md",
+    "bytes": 1516,
+    "sha256": "a03410ed425e40885685b7341f22992e61dbb4e8f424ba3e0d9a3f62d8fce0c1"
+  },
+  {
+    "path": "提示词素材库/042_01/素材对应.json",
+    "bytes": 895,
+    "sha256": "137c162f767742a2f32580f11cffb1a04a239f8f8e8b133f78d716416cfa17b2"
+  },
+  {
+    "path": "提示词素材库/042_01/02_前.png",
+    "bytes": 2649770,
+    "sha256": "f0e983e42d3adf649ff0a6f956b09ada90c3c33c80d8f5b806adb96aaaa3805a"
+  },
+  {
+    "path": "提示词素材库/042_01/提示词.txt",
+    "bytes": 1150,
+    "sha256": "0f4dd01cfb4477eee60e9ff73f17f830faa607cb83707747a0c4cfb75a08d880"
+  },
+  {
+    "path": "提示词素材库/042_01/03_前.png",
+    "bytes": 3267107,
+    "sha256": "0b266131eb5e5e75bbd22dfa34aced9e44a9b7b1e21b33d237aaa5d2ea6bd7dd"
+  },
+  {
+    "path": "提示词素材库/042_01/01_前.png",
+    "bytes": 3266963,
+    "sha256": "ec93c7edfdb141af207854d7dbc778754f02c2f5d89819dc86b18f9092d986d5"
+  },
+  {
+    "path": "提示词素材库/062_01/02_后.jpg",
+    "bytes": 434124,
+    "sha256": "f10915775d999ce3f905fc2b35fb54e283e9171d06764abc76561c71217d82f4"
+  },
+  {
+    "path": "提示词素材库/062_01/03_后.jpg",
+    "bytes": 537476,
+    "sha256": "baa771d65ce4bc67c0f8a35816ac24128ace19d2a16b1aa52bdc4d8233490280"
+  },
+  {
+    "path": "提示词素材库/062_01/01_后.jpg",
+    "bytes": 542357,
+    "sha256": "50ba1d40a8527bbc58925bb05c5bc6d2a75b18b8ed85110b2213171163977bfb"
+  },
+  {
+    "path": "提示词素材库/062_01/README.md",
+    "bytes": 792,
+    "sha256": "a916d657520b8f85feef1a71235671a25c673b33207e8da1734f56af179f984a"
+  },
+  {
+    "path": "提示词素材库/062_01/素材对应.json",
+    "bytes": 658,
+    "sha256": "45b2a5a9cc2179598e4412b035564a9ef492dfc74490f37a6160faeb4b2f1a68"
+  },
+  {
+    "path": "提示词素材库/062_01/02_前.jpg",
+    "bytes": 393853,
+    "sha256": "de508c081c9801e38fbc292f33e1a35d5663a639b3fd9539f7c7599b1fe5d641"
+  },
+  {
+    "path": "提示词素材库/062_01/提示词.txt",
+    "bytes": 429,
+    "sha256": "8985a74a9f263fb96492c0b06a99f99fd7c884291885fe304cab217ba9b97479"
+  },
+  {
+    "path": "提示词素材库/062_01/03_前.jpg",
+    "bytes": 523871,
+    "sha256": "9d0bc477acc125c9d7f3eb46227bb6902ac614a971f4a855dea44b7d640e89eb"
+  },
+  {
+    "path": "提示词素材库/062_01/01_前.jpg",
+    "bytes": 416387,
+    "sha256": "acc1cb4e9ce6882ee964ea0f9870c1413258590a0f6f0e699a005f2fe4f1a2b0"
+  },
+  {
+    "path": "提示词素材库/033_01/02_后.png",
+    "bytes": 2279081,
+    "sha256": "f8e96d3f0c1dca192a3549c6109497a1c16598507cdb40647db605b81d672603"
+  },
+  {
+    "path": "提示词素材库/033_01/03_后.png",
+    "bytes": 2565364,
+    "sha256": "947dabf53f9688950ef95ae316c7bf3d80b9456db7d37388fdaaec5cfd3baad5"
+  },
+  {
+    "path": "提示词素材库/033_01/01_后.png",
+    "bytes": 1139641,
+    "sha256": "bf40a7fc148faf5c3d44a9fdc558c5fb513c76d37fc7490cc93549ab459dbd96"
+  },
+  {
+    "path": "提示词素材库/033_01/README.md",
+    "bytes": 1261,
+    "sha256": "7a1fb71a74c8d588df041e9fa2b2e6775bfb11fa7a759c8f22aff65b9a1588af"
+  },
+  {
+    "path": "提示词素材库/033_01/素材对应.json",
+    "bytes": 910,
+    "sha256": "70c4dcec8d7099390f80e7f6f108242f85b3c11318315e6fe48ca555732c4bf0"
+  },
+  {
+    "path": "提示词素材库/033_01/02_前.png",
+    "bytes": 2426201,
+    "sha256": "91c581c70d7ffde43171c7bd04642d19e39bef45d862ecdeffb7633ecf84f14b"
+  },
+  {
+    "path": "提示词素材库/033_01/提示词.txt",
+    "bytes": 880,
+    "sha256": "379c7fa42db624650108e3d7a93f0abdca4cae3085f5fb2290e3419b6b3e99d4"
+  },
+  {
+    "path": "提示词素材库/033_01/03_前.png",
+    "bytes": 3667323,
+    "sha256": "cec66a407fcd45a28dedc0ba6e3a8a64a7e817ed1c3e4d6747947020aa4a4027"
+  },
+  {
+    "path": "提示词素材库/033_01/01_前.png",
+    "bytes": 933897,
+    "sha256": "b3deaed896f27a66ac93f246c401bf1a9861f01f69724df81fd28491a8797009"
+  },
+  {
+    "path": "提示词素材库/007_01/02_后.png",
+    "bytes": 1331343,
+    "sha256": "e64bc26c4ff4f12916ecfbf7203a9b7e4d28db1c5edc4b4541271031c749b3fb"
+  },
+  {
+    "path": "提示词素材库/007_01/03_后.png",
+    "bytes": 1719032,
+    "sha256": "81babe4edb47e6c61afb7b75d223887368049bc455ff173f42218d8da46d0cef"
+  },
+  {
+    "path": "提示词素材库/007_01/01_后.png",
+    "bytes": 1997952,
+    "sha256": "22c102cf1c45fa45e925e6611195ddbcb7be2dbdd79fc96c2d9ad27b772e7f22"
+  },
+  {
+    "path": "提示词素材库/007_01/README.md",
+    "bytes": 1370,
+    "sha256": "12280ecc7eb1f3c998f39193f1618bd8383dd26b8f0c2be8371761a5e28e4ddc"
+  },
+  {
+    "path": "提示词素材库/007_01/素材对应.json",
+    "bytes": 712,
+    "sha256": "ff4e1faf6df7b37dae77ebbeff8a67531edbafc6914fe71fc19a91ad26d4b3a8"
+  },
+  {
+    "path": "提示词素材库/007_01/02_前.png",
+    "bytes": 1416802,
+    "sha256": "6d70b87538c055e2aabbbb5692123d76da335371e2e0e70724a6b5e2dcdb464d"
+  },
+  {
+    "path": "提示词素材库/007_01/提示词.txt",
+    "bytes": 1004,
+    "sha256": "20646d9d9ca922339faae88672e70164f4610e09a3dfab78cd4fffe7691daa6f"
+  },
+  {
+    "path": "提示词素材库/007_01/03_前.png",
+    "bytes": 1890069,
+    "sha256": "b4faa3cd56486d4b003adbd31e65ceeb964ff4994684ce09872841ac75f102ce"
+  },
+  {
+    "path": "提示词素材库/007_01/01_前.png",
+    "bytes": 2614863,
+    "sha256": "931c28d11968add974a8e9218302365cd00c5bfafe3321aefa551efb72cf6dee"
+  },
+  {
+    "path": "提示词素材库/056_01/02_后.jpg",
+    "bytes": 1064852,
+    "sha256": "c9d61f73332b79509fb27c9e82f246700d594cc5ff6eb01c8f9d9c69a565f868"
+  },
+  {
+    "path": "提示词素材库/056_01/03_后.jpg",
+    "bytes": 568108,
+    "sha256": "19eb45d1b5751918a9fbd4f2602ebcdca240f632c287c04b987d24feb8b531c4"
+  },
+  {
+    "path": "提示词素材库/056_01/01_后.jpg",
+    "bytes": 981261,
+    "sha256": "b39ff2bbcd5e685b72ae7d8c934920e1e4526a5cf762888d4447295d4e3fc42b"
+  },
+  {
+    "path": "提示词素材库/056_01/README.md",
+    "bytes": 1223,
+    "sha256": "7072ec2f9ecef5a61973043d79d8eab9ccb313e88d75a38c30187f1fbd2416b7"
+  },
+  {
+    "path": "提示词素材库/056_01/素材对应.json",
+    "bytes": 759,
+    "sha256": "2a74b96a8145a92c1140e10c01de119a70de4ba70ce1b583bd4ca7ddbc7935d4"
+  },
+  {
+    "path": "提示词素材库/056_01/02_前.jpg",
+    "bytes": 1048189,
+    "sha256": "2aef8b136e09a267162eb2d121b257f0014df1e99cd419fe4e6b2b943ca09342"
+  },
+  {
+    "path": "提示词素材库/056_01/提示词.txt",
+    "bytes": 759,
+    "sha256": "6642be0b6af676ed02d3d109828cf2c3bffb6c7ae2afe1c5a59fb70b9987473e"
+  },
+  {
+    "path": "提示词素材库/056_01/03_前.jpg",
+    "bytes": 445976,
+    "sha256": "16ba4a52441646add9f465b0852cdc93fe9fe411ebbfb162750dbca5f9e30651"
+  },
+  {
+    "path": "提示词素材库/056_01/01_前.jpg",
+    "bytes": 740523,
+    "sha256": "0cb314e7adf15e2f8aef582e42061109bffd9f42b7b525076e5a1b58035a709b"
+  },
+  {
+    "path": "提示词素材库/046_01/02_后.png",
+    "bytes": 2583553,
+    "sha256": "f7103df4bb2ec4cc9cfe2fb201c5e24ab1f7c5ef3404322c1dd638b394906b2d"
+  },
+  {
+    "path": "提示词素材库/046_01/03_后.png",
+    "bytes": 4378049,
+    "sha256": "5f143a064a3bf799883a622ebf71ae6c2aabf4f11bea74ae2b61a8e53d51571f"
+  },
+  {
+    "path": "提示词素材库/046_01/01_后.png",
+    "bytes": 3328798,
+    "sha256": "fc24380230e5311d61ccb846639484fcbc33dcc618d986156e25b18d8c732458"
+  },
+  {
+    "path": "提示词素材库/046_01/README.md",
+    "bytes": 1203,
+    "sha256": "442da53d3aa694d6bcbc1cb52d4d701f9a55954152e2b76c890a6fbfae316e1a"
+  },
+  {
+    "path": "提示词素材库/046_01/素材对应.json",
+    "bytes": 898,
+    "sha256": "d48989cd8989b3ce9505debf4e6c8871cc4df507285e0bb8784584d8e1987ff3"
+  },
+  {
+    "path": "提示词素材库/046_01/02_前.png",
+    "bytes": 2226461,
+    "sha256": "60644797a479f687053b648858ac057f3682740c754339b39a001568c154a558"
+  },
+  {
+    "path": "提示词素材库/046_01/提示词.txt",
+    "bytes": 834,
+    "sha256": "6986b8d84b02dc15ddf82c6e634f0c9d114d19b134fb39d10735b77400c49dd6"
+  },
+  {
+    "path": "提示词素材库/046_01/03_前.png",
+    "bytes": 4706078,
+    "sha256": "ed7df424e68ea795bdcfa9377891bfeea6600941fc86baf91c9733950cbe9c91"
+  },
+  {
+    "path": "提示词素材库/046_01/01_前.png",
+    "bytes": 3346073,
+    "sha256": "0dd04dd28262023491d637cb94360902cdebf0c5ee0883c99ec685836356b00a"
+  },
+  {
+    "path": "提示词素材库/017_01/02_后.png",
+    "bytes": 1293943,
+    "sha256": "6972d5be0c87a386cc1cdfdc2b668d07958b6229bbaaa23ac37cfc3df615a30b"
+  },
+  {
+    "path": "提示词素材库/017_01/03_后.png",
+    "bytes": 1694605,
+    "sha256": "eaf7050673db0193942ec013ee5567bb179def716dd5a749cd076596f86bf008"
+  },
+  {
+    "path": "提示词素材库/017_01/01_后.png",
+    "bytes": 1634815,
+    "sha256": "066ac24266f6f65ac7a0dd14a2ea107a3c88d5bef5c4103e776ad634eadda54e"
+  },
+  {
+    "path": "提示词素材库/017_01/README.md",
+    "bytes": 1797,
+    "sha256": "02be915963e39699e87aefbf2a5010165ea98fa25076af9f83534584c7f6dbd8"
+  },
+  {
+    "path": "提示词素材库/017_01/素材对应.json",
+    "bytes": 729,
+    "sha256": "f6fd3c4fe21e53bc144cf0a8f51d28b9fcd1f10f1141595c9206478ab80c46ea"
+  },
+  {
+    "path": "提示词素材库/017_01/02_前.png",
+    "bytes": 871226,
+    "sha256": "79cf17e8593ec86c705d3600b84a537f06849659e67240c958cbbf90fbe7156f"
+  },
+  {
+    "path": "提示词素材库/017_01/提示词.txt",
+    "bytes": 1414,
+    "sha256": "1b75f2e4af0c506ae2404e07e15bfea76294a177db173f39c116c1ebd63ee08d"
+  },
+  {
+    "path": "提示词素材库/017_01/03_前.png",
+    "bytes": 966859,
+    "sha256": "4c992d03653519d28e6af6d325dc9f3e87e6093e0cf1aff155074266948e344d"
+  },
+  {
+    "path": "提示词素材库/017_01/01_前.png",
+    "bytes": 1442269,
+    "sha256": "eca52e94c4a153c25495eb1dc22037245327e24205b19cd2ff6a626aae33a732"
+  },
+  {
+    "path": "提示词素材库/023_01/02_后.png",
+    "bytes": 965929,
+    "sha256": "3e834818731b39a310a53ee9bddf2281a3972f120db88b59216e98bf41dcbfa4"
+  },
+  {
+    "path": "提示词素材库/023_01/03_后.png",
+    "bytes": 1111284,
+    "sha256": "77319589b510f1ec7d26c289214e61810fc2d840b338cd00f7b49a9c6564107e"
+  },
+  {
+    "path": "提示词素材库/023_01/01_后.png",
+    "bytes": 1871509,
+    "sha256": "0b155b2e815310eea265c6ad040fed2d7d945a9c444ba02c85a758df574e9c45"
+  },
+  {
+    "path": "提示词素材库/023_01/README.md",
+    "bytes": 1424,
+    "sha256": "874494351f8096d85e6f8310044689607c73780824c901dfe3456c1c864f2bed"
+  },
+  {
+    "path": "提示词素材库/023_01/素材对应.json",
+    "bytes": 885,
+    "sha256": "f47683187b6357478c6198bdb6bd0867f01ef51417e421d56e6c44e7c104e964"
+  },
+  {
+    "path": "提示词素材库/023_01/02_前.png",
+    "bytes": 745776,
+    "sha256": "da652438c38f4c013af7914aca5f13f9fc33bfb8c9878ee33ca963abfc19486f"
+  },
+  {
+    "path": "提示词素材库/023_01/提示词.txt",
+    "bytes": 947,
+    "sha256": "b8716a148c39fed73d250446d1f992f47873c024c0029b9ac0137cb80ac41264"
+  },
+  {
+    "path": "提示词素材库/023_01/03_前.png",
+    "bytes": 958376,
+    "sha256": "39bb5cc051a200b823900567021768310b0bb39daad4ccdf79087d2180c20b8c"
+  },
+  {
+    "path": "提示词素材库/023_01/01_前.png",
+    "bytes": 212093,
+    "sha256": "2dc9ed8952836c9ceaf83ff117961970457fa04e7a68d5770c7e8c2d419a846e"
+  },
+  {
+    "path": "提示词素材库/063_01/02_后.jpg",
+    "bytes": 491674,
+    "sha256": "ade8a2c1d74f027d2767f7091d9acb570cd9cef8dfb92e9997105356ab46a2e4"
+  },
+  {
+    "path": "提示词素材库/063_01/03_后.jpg",
+    "bytes": 631777,
+    "sha256": "ad6780c9e09738800a925e774b177c68119d9d25438c95df31456a215c17ec5d"
+  },
+  {
+    "path": "提示词素材库/063_01/01_后.jpg",
+    "bytes": 716905,
+    "sha256": "69a8446e44eb3cfdbe58dbc20f10cc3590175dd777a3c32a052e0d5819a899be"
+  },
+  {
+    "path": "提示词素材库/063_01/README.md",
+    "bytes": 1179,
+    "sha256": "ae96df99e725797cf71f0fb02c5401d00c9117692da6f6033012eb726fe6914b"
+  },
+  {
+    "path": "提示词素材库/063_01/素材对应.json",
+    "bytes": 766,
+    "sha256": "29e97fd67e6a849a7c1e36c281eb910933fbd91da0ab27c3bdeff90a84ae1f7c"
+  },
+  {
+    "path": "提示词素材库/063_01/02_前.jpg",
+    "bytes": 506481,
+    "sha256": "a8a359c270b23fb1ce71740c4a94c33b02f08d502e33616587d986a6c67644e3"
+  },
+  {
+    "path": "提示词素材库/063_01/提示词.txt",
+    "bytes": 708,
+    "sha256": "4101e296a1810c5aef76621edde3ed1704abdd570235e6dff8b607cb2398c2c9"
+  },
+  {
+    "path": "提示词素材库/063_01/03_前.jpg",
+    "bytes": 591359,
+    "sha256": "ef6aab7c5e874e0ce87434dfb6c26d962064312f78ee429b481ce742176194ca"
+  },
+  {
+    "path": "提示词素材库/063_01/01_前.jpg",
+    "bytes": 845484,
+    "sha256": "e06a5f11aa312fe894566e09868263b6c270733fd04e8606c80234c339b8343d"
+  },
+  {
+    "path": "提示词素材库/032_01/02_后.png",
+    "bytes": 3555801,
+    "sha256": "8b3eb6f8f14e8f9c8ae95c9e84aea431943f24d7b51461c39ca2bc130e0a7663"
+  },
+  {
+    "path": "提示词素材库/032_01/03_后.png",
+    "bytes": 2346433,
+    "sha256": "949e8db18843afe279beda9d686951da471e958825b6e3884f90f8c17b4ce54e"
+  },
+  {
+    "path": "提示词素材库/032_01/01_后.png",
+    "bytes": 3582629,
+    "sha256": "7a48589c42d171159c29ce2c3ac9ac8b17245adfece78970081d56628f841195"
+  },
+  {
+    "path": "提示词素材库/032_01/README.md",
+    "bytes": 952,
+    "sha256": "4f3bf3239ff80710e56cafcf9b4befcb089de8b1c28207ac1ac9d2c633bd1194"
+  },
+  {
+    "path": "提示词素材库/032_01/素材对应.json",
+    "bytes": 899,
+    "sha256": "495a2ec0c5b42b816ee5230531c60a640e17da165c3e544548c2f444a862a41f"
+  },
+  {
+    "path": "提示词素材库/032_01/02_前.png",
+    "bytes": 3593719,
+    "sha256": "0dc68c80cefe736e644bd9f65633c1d9118d96deb34b2f37230dd90ac738b7ab"
+  },
+  {
+    "path": "提示词素材库/032_01/提示词.txt",
+    "bytes": 582,
+    "sha256": "b2359eb710de614e870f9dee4f22f6f2dbfdf01bad50482a95ea13e3a83f4da7"
+  },
+  {
+    "path": "提示词素材库/032_01/03_前.png",
+    "bytes": 2533791,
+    "sha256": "8478832074013e24c35cd6a89dee9b4a3de26e46dd69049e1b685f5aad9ca363"
+  },
+  {
+    "path": "提示词素材库/032_01/01_前.png",
+    "bytes": 3642900,
+    "sha256": "171e8db24be4dac6e7e25a64e55635cb9b3b986913884d1e780da481d3633fd7"
+  },
+  {
+    "path": "提示词素材库/006_01/02_后.png",
+    "bytes": 1390580,
+    "sha256": "a72a256a538466f145d0c111f892913f965a42e9835549b188dccc4bd96533b2"
+  },
+  {
+    "path": "提示词素材库/006_01/03_后.png",
+    "bytes": 1246112,
+    "sha256": "8684d3c4129001cba9300fd1589b00df9bc87c4a4c0e28dfb6dc2a2cbd89e40e"
+  },
+  {
+    "path": "提示词素材库/006_01/01_后.png",
+    "bytes": 1444813,
+    "sha256": "decde4652c853b9c05609b976c48499864f117f3eb724371b42965f2897e0495"
+  },
+  {
+    "path": "提示词素材库/006_01/README.md",
+    "bytes": 998,
+    "sha256": "e67b7bb78f409727df9b5af42115b2f5b0b2a12d601b2aa82fc01db12ad2dce5"
+  },
+  {
+    "path": "提示词素材库/006_01/素材对应.json",
+    "bytes": 718,
+    "sha256": "02bac5820ca7b06378207409ab02d51a6742b80c996c430e99cbe360434e4774"
+  },
+  {
+    "path": "提示词素材库/006_01/02_前.png",
+    "bytes": 1575218,
+    "sha256": "8f4e0073eb23314d29f7ce2b5b4c0f8508eeeef7ecdd1f4ddd334c5b4e02d78e"
+  },
+  {
+    "path": "提示词素材库/006_01/提示词.txt",
+    "bytes": 626,
+    "sha256": "d0e20073009c4ec77866d2bfa6d841d66be1802f4ddafcd98b001214766b8db4"
+  },
+  {
+    "path": "提示词素材库/006_01/03_前.png",
+    "bytes": 1060410,
+    "sha256": "da2ab380d5e461e3f91c5e8c404339102604d69390ed1efc0714a568f8905b34"
+  },
+  {
+    "path": "提示词素材库/006_01/01_前.png",
+    "bytes": 1430308,
+    "sha256": "fdfd2db14bbccafc5c51e17019146ca28db30cfdd9c346be0cc50379913b18fb"
+  },
+  {
+    "path": "提示词素材库/047_01/02_后.jpg",
+    "bytes": 978542,
+    "sha256": "c56b01b9b36d1efa26690a92cdf9c3e008c50a3f89fb7e6035439f74709ea139"
+  },
+  {
+    "path": "提示词素材库/047_01/03_后.jpg",
+    "bytes": 773449,
+    "sha256": "27a8889d001ee90578c2892689f0b2d00c12bab19d6d5706769867eb99c39f64"
+  },
+  {
+    "path": "提示词素材库/047_01/01_后.jpg",
+    "bytes": 823874,
+    "sha256": "798676d71f96b6ec7a262afeac8659339aa760878b6ef2667f5a8c231b4efb88"
+  },
+  {
+    "path": "提示词素材库/047_01/README.md",
+    "bytes": 889,
+    "sha256": "1f2e68b712f08a0a82d4f17570b8c752ed1793ea9d589bfd6ae1017545726a33"
+  },
+  {
+    "path": "提示词素材库/047_01/素材对应.json",
+    "bytes": 670,
+    "sha256": "acd3fb92bf1662821e9713c7769250ab8ce35182a1122e1b955eb7498abd576b"
+  },
+  {
+    "path": "提示词素材库/047_01/02_前.jpg",
+    "bytes": 997577,
+    "sha256": "4d83ec3ffff4e2662070e63d746b7c9e7733a6c04430c5f22b1ec9953054b0db"
+  },
+  {
+    "path": "提示词素材库/047_01/提示词.txt",
+    "bytes": 514,
+    "sha256": "3600219d2d0bb00981fb2e35ab08e4165bd2b582499ca30ca313889f5479feb6"
+  },
+  {
+    "path": "提示词素材库/047_01/03_前.jpg",
+    "bytes": 871061,
+    "sha256": "09c886d1f22380cd6b49d837621f157206b50e8144c16502e64ccc49fc08471b"
+  },
+  {
+    "path": "提示词素材库/047_01/01_前.jpg",
+    "bytes": 847228,
+    "sha256": "3846f489c6bf3788065c0fb86e0ff47c96ef4fa0be1e2e751855163062df093f"
+  },
+  {
+    "path": "提示词素材库/016_01/02_后.png",
+    "bytes": 2438855,
+    "sha256": "d807e5089953b52929e6d61a430c22607e6a01abf42b584824ee5a3231b9c7b7"
+  },
+  {
+    "path": "提示词素材库/016_01/03_后.png",
+    "bytes": 884237,
+    "sha256": "ccc12bf181a9b83bc1303f4f2d0c3677f402d0fa05bf901f35b342054051f0a0"
+  },
+  {
+    "path": "提示词素材库/016_01/01_后.png",
+    "bytes": 1926554,
+    "sha256": "457672b42465953a517285b61d320ae3cf283f505e4576abf87e2cd81efce3a0"
+  },
+  {
+    "path": "提示词素材库/016_01/README.md",
+    "bytes": 1592,
+    "sha256": "d371fc905bb8d9d42efe7fa7aebb5d582772a5deef2592aedf411ae616f6c9b2"
+  },
+  {
+    "path": "提示词素材库/016_01/素材对应.json",
+    "bytes": 850,
+    "sha256": "8790d56f0a62855f28fca35b7d49d785065d075b07460e477eadd877a934fd70"
+  },
+  {
+    "path": "提示词素材库/016_01/02_前.png",
+    "bytes": 173889,
+    "sha256": "ade7ff2ce1ff7a0669fd19e82951b84f45e1a203f6923649921a3721f3cae915"
+  },
+  {
+    "path": "提示词素材库/016_01/提示词.txt",
+    "bytes": 1212,
+    "sha256": "2ee24459b78738a16a1d8074485c3d5782af331432a199fee24531e1a3b45197"
+  },
+  {
+    "path": "提示词素材库/016_01/03_前.png",
+    "bytes": 982075,
+    "sha256": "b5a9d2aeae1b5b6c32a8e5d1eb467103c8f843ff81432ca15c38a9c7d87923dd"
+  },
+  {
+    "path": "提示词素材库/016_01/01_前.png",
+    "bytes": 208497,
+    "sha256": "6371806abad9ad8d0d050472ff0a490f2f7a4eeaf6263aeaeb68134b58a613f9"
+  },
+  {
+    "path": "提示词素材库/022_01/02_后.png",
+    "bytes": 636197,
+    "sha256": "7705ae47fe177f80c4d827a547892bc8f86b5670d5187f2e67cedff13e81adf2"
+  },
+  {
+    "path": "提示词素材库/022_01/03_后.png",
+    "bytes": 695943,
+    "sha256": "abf09f03969db8c701dc8abb439079ad3d334ca504c419b9cecded140da4e00b"
+  },
+  {
+    "path": "提示词素材库/022_01/01_后.png",
+    "bytes": 1248917,
+    "sha256": "2c5e2340907d84ce5ea578526bd1d89a9047ab3fa91ae7b0aff2fd630692ef7b"
+  },
+  {
+    "path": "提示词素材库/022_01/README.md",
+    "bytes": 1519,
+    "sha256": "f41090917b137fc49b514224841a8b1ccd2b56d89087b08442cd2eaf5eadbafb"
+  },
+  {
+    "path": "提示词素材库/022_01/素材对应.json",
+    "bytes": 845,
+    "sha256": "e1f086bfac308869e4abcd3f7773acbed6782064fe9735d9c93207707a7bca62"
+  },
+  {
+    "path": "提示词素材库/022_01/02_前.png",
+    "bytes": 986626,
+    "sha256": "42a5b20c18ffaeb254decdab57c51f85a9e18095a4101cada5c32923c35db4ca"
+  },
+  {
+    "path": "提示词素材库/022_01/提示词.txt",
+    "bytes": 1082,
+    "sha256": "8876ccc021b6d45b2de9cca1a989f8329abf3c5b292d8d1cd51e963d1c66f084"
+  },
+  {
+    "path": "提示词素材库/022_01/03_前.png",
+    "bytes": 1402650,
+    "sha256": "12c7cbea6071331a403b26e83c7653dfefa443741172b65972ec1466626922b6"
+  },
+  {
+    "path": "提示词素材库/022_01/01_前.png",
+    "bytes": 248762,
+    "sha256": "39890361547ad97ed8d49b1e3906085ff76666279f2ba34e858ac5c1c708ca31"
+  },
+  {
+    "path": "提示词素材库/002_01/02_后.png",
+    "bytes": 1007483,
+    "sha256": "b1035ce1402e78cf16e5b411213c35ea424b1844b5edbc3736d176897363ab2a"
+  },
+  {
+    "path": "提示词素材库/002_01/03_后.png",
+    "bytes": 795540,
+    "sha256": "a88b7785a4d59ae0d66fdb00161c68c7faaef5553643a8fa1eac0747868e36f8"
+  },
+  {
+    "path": "提示词素材库/002_01/01_后.png",
+    "bytes": 967795,
+    "sha256": "e3d737d5d14dc713bbd41d0423a241397b4e2fd8e2cda7b898ec4cf0e7a0f9e1"
+  },
+  {
+    "path": "提示词素材库/002_01/README.md",
+    "bytes": 1455,
+    "sha256": "3789748a6a3ab4bf39f38d8bc078c355195a2bdbda92e32a30b39930e2aa6644"
+  },
+  {
+    "path": "提示词素材库/002_01/素材对应.json",
+    "bytes": 615,
+    "sha256": "2b94065c1ae0cc17132487e9b547dfb96014104605eb7ec88906f52a6eb51cb3"
+  },
+  {
+    "path": "提示词素材库/002_01/02_前.png",
+    "bytes": 1219019,
+    "sha256": "c6e5a8b8fd7b2ad20bb24478c927094ed82a826c9503cad1bfadcef51ef149d7"
+  },
+  {
+    "path": "提示词素材库/002_01/提示词.txt",
+    "bytes": 1081,
+    "sha256": "b058229b561a87c02907ee537056be50e1745a577796f094a0230a74513c9b75"
+  },
+  {
+    "path": "提示词素材库/002_01/03_前.png",
+    "bytes": 1150442,
+    "sha256": "3819f5cfeb047885d5265003e9e15810deeb4534e832c8481c13fb0f0f10ed9d"
+  },
+  {
+    "path": "提示词素材库/002_01/01_前.png",
+    "bytes": 1427887,
+    "sha256": "905bb914611de9d90e8a36b92609e1392999cf701c25947b7a523e3f8a1b5f86"
+  },
+  {
+    "path": "提示词素材库/036_01/02_后.png",
+    "bytes": 2983991,
+    "sha256": "209a43767aa0e9307e9dea2f777e39f075c1530dfa766bed6504e599bf1a800e"
+  },
+  {
+    "path": "提示词素材库/036_01/03_后.png",
+    "bytes": 3919420,
+    "sha256": "1d625399783611e270fd1b366e6e53975109bfabe10d726549dfa439ce1a6ad7"
+  },
+  {
+    "path": "提示词素材库/036_01/01_后.png",
+    "bytes": 2638334,
+    "sha256": "02deebe334f37eed7b3d9f97fafd42734110d44652f240ce73026fecd246fb32"
+  },
+  {
+    "path": "提示词素材库/036_01/README.md",
+    "bytes": 2009,
+    "sha256": "2b1e732f97c51b73088bf7a23fb7244c33e30e5f0f5f60adc6560b46585620e9"
+  },
+  {
+    "path": "提示词素材库/036_01/素材对应.json",
+    "bytes": 899,
+    "sha256": "d56bd79e63941f8ab7434e7353fcc2eba814211db36c1a9024bfa948c051d7b6"
+  },
+  {
+    "path": "提示词素材库/036_01/02_前.png",
+    "bytes": 2174856,
+    "sha256": "cfa92da87f097ba8d26cabd1cba427c02442ab35d89c81cfac474ccf657f9725"
+  },
+  {
+    "path": "提示词素材库/036_01/提示词.txt",
+    "bytes": 1639,
+    "sha256": "8aa77d3090071e2edee14c7c1e0a524a3d72343e85a1f26d2222abe6e123e9f8"
+  },
+  {
+    "path": "提示词素材库/036_01/03_前.png",
+    "bytes": 3915184,
+    "sha256": "c3d4e89943cf44531fb378f338495fa5d0b5b1a989c44cd0a9cfff4abb23977d"
+  },
+  {
+    "path": "提示词素材库/036_01/01_前.png",
+    "bytes": 2022913,
+    "sha256": "432e24bbe305574909426368311ef87d08564556dcdc3afc727584365dde0aa2"
+  },
+  {
+    "path": "提示词素材库/067_01/02_后.jpg",
+    "bytes": 565495,
+    "sha256": "7ffaf7ec97e6505d4e8e8bdb98a36a8db55a2b4729813f1745bd9b94c020915d"
+  },
+  {
+    "path": "提示词素材库/067_01/03_后.jpg",
+    "bytes": 462056,
+    "sha256": "2d77b26001e912cc72a54b714b769720438546ad4323a413f64447bd3c8dd9b2"
+  },
+  {
+    "path": "提示词素材库/067_01/01_后.jpg",
+    "bytes": 386661,
+    "sha256": "3b70c3fc0ede8eeced18346d9407c348d0c27c2d727f32e7c85a86b1181a8bdf"
+  },
+  {
+    "path": "提示词素材库/067_01/README.md",
+    "bytes": 761,
+    "sha256": "248728f151832ec843f7de86369f99915417e2f61b7681b840fdb8e02cefec5f"
+  },
+  {
+    "path": "提示词素材库/067_01/素材对应.json",
+    "bytes": 664,
+    "sha256": "19270f44b1129cb4836851bd9ad483f62af7605600502b46c62530660baddd4a"
+  },
+  {
+    "path": "提示词素材库/067_01/02_前.jpg",
+    "bytes": 506335,
+    "sha256": "4d27dc76d5430caa9db47c240c93d8d114930d74004b730b10c9e182fc229ed2"
+  },
+  {
+    "path": "提示词素材库/067_01/提示词.txt",
+    "bytes": 392,
+    "sha256": "e3fe428afdd6ad48b3e396f1f44ff3cb8cdc8529c9f24683214359f2c35b4b97"
+  },
+  {
+    "path": "提示词素材库/067_01/03_前.jpg",
+    "bytes": 357072,
+    "sha256": "4a9843e04c97a9a669db97a7dfceccf68938f6c7b6638a1dd662006600a9b22e"
+  },
+  {
+    "path": "提示词素材库/067_01/01_前.jpg",
+    "bytes": 299366,
+    "sha256": "b3489b6bd368ba8715d35bafbd5778918dab35f51a45a1c553d8d67c39980145"
+  },
+  {
+    "path": "提示词素材库/026_01/02_后.png",
+    "bytes": 3004361,
+    "sha256": "0cfb7b3bb5c4718df866c04637b162c26b799ce9a7041eb3462b16d946f63723"
+  },
+  {
+    "path": "提示词素材库/026_01/03_后.png",
+    "bytes": 3419447,
+    "sha256": "c2d7cd4ca4f52abde63421dfb0559d02a361e7c27783d7b27afa5e9b52664d21"
+  },
+  {
+    "path": "提示词素材库/026_01/01_后.png",
+    "bytes": 3415891,
+    "sha256": "c70db7ab2d67a2d529b19a1a9c8cee575c1bfa68063694b07d5b952c43b1550c"
+  },
+  {
+    "path": "提示词素材库/026_01/README.md",
+    "bytes": 1766,
+    "sha256": "e80c4dd4d61ada32358ecabc06e9283c3231ed55acc96208fa620997d5918571"
+  },
+  {
+    "path": "提示词素材库/026_01/素材对应.json",
+    "bytes": 1000,
+    "sha256": "8007798013c092b40c45f6bd891d697b844a045aa92d8107d0e70249f5cef02d"
+  },
+  {
+    "path": "提示词素材库/026_01/02_前.png",
+    "bytes": 2222203,
+    "sha256": "756b0127aa7054e2097b891516b7eefdf83bc0af2e46e27c4f45573105896ea6"
+  },
+  {
+    "path": "提示词素材库/026_01/提示词.txt",
+    "bytes": 1295,
+    "sha256": "e6f14627733b3f4a10be2c7de1d7be5bfca97d68f21617f8e36ee4450f768a96"
+  },
+  {
+    "path": "提示词素材库/026_01/03_前.png",
+    "bytes": 3292310,
+    "sha256": "10fc048ae87f3697c7bcd6355f0ca95c01b998c191f5208f34cc650b4a119fe0"
+  },
+  {
+    "path": "提示词素材库/026_01/01_前.png",
+    "bytes": 2784850,
+    "sha256": "41020f9b88c41c77796319c6add1a99ef8a6d285ac35176fc6aa2242612485fa"
+  },
+  {
+    "path": "提示词素材库/012_01/02_后.png",
+    "bytes": 754239,
+    "sha256": "e5942256e129b5b1637e43debd50fbabe9374ae42f2412489b4769743b7c9dde"
+  },
+  {
+    "path": "提示词素材库/012_01/03_后.png",
+    "bytes": 1822753,
+    "sha256": "94048e337a5110f3d70143dcdd6128b089eb3653321932a26bf7d16f82314f5f"
+  },
+  {
+    "path": "提示词素材库/012_01/01_后.png",
+    "bytes": 1334047,
+    "sha256": "d7fe17b35910f271bf6d09b1d72f23381335d33580a2a0efb3f45a77be569c59"
+  },
+  {
+    "path": "提示词素材库/012_01/README.md",
+    "bytes": 1983,
+    "sha256": "3c433c7be8c2639f63be607cbfc02d54021f6e68b4711d7bc6586a0b1d55eb3e"
+  },
+  {
+    "path": "提示词素材库/012_01/素材对应.json",
+    "bytes": 787,
+    "sha256": "8a9b336daada4d20ce81caf3f1d349c4aae10771d7ec0018ed80f8589a92819b"
+  },
+  {
+    "path": "提示词素材库/012_01/02_前.png",
+    "bytes": 801016,
+    "sha256": "8c6820b034f3c91a7fbf56ab3563157c72ef517afeaa52cf1bba137e3a41f133"
+  },
+  {
+    "path": "提示词素材库/012_01/提示词.txt",
+    "bytes": 1542,
+    "sha256": "351534f3c26f17e16f2113c028b6d4f7e06fe46bf886e0d5de6d062fc23d6669"
+  },
+  {
+    "path": "提示词素材库/012_01/03_前.png",
+    "bytes": 1796852,
+    "sha256": "14ae8439757170656bfd6376a6fa05d3a9a060f633fcc358932d2c898f8abd7b"
+  },
+  {
+    "path": "提示词素材库/012_01/01_前.png",
+    "bytes": 1253713,
+    "sha256": "9e8c5272d6b484a8f62c8c186b9a571f3f6d32c99a574138b94451cd60ca8c5a"
+  },
+  {
+    "path": "提示词素材库/043_01/02_后.png",
+    "bytes": 1661057,
+    "sha256": "fa05d2deba911c42fec1ca2094b2ee3a9a5ccd31ed771e3f9727b32f520461bb"
+  },
+  {
+    "path": "提示词素材库/043_01/03_后.png",
+    "bytes": 1860739,
+    "sha256": "e11813913d707ea1c049c1df3a3b3624ac73940cca87a9b4ad572b0d3990e2d0"
+  },
+  {
+    "path": "提示词素材库/043_01/01_后.png",
+    "bytes": 2301993,
+    "sha256": "b7cd383059430d19d4373ccb173b866c49b73d8b985fc1b92f8279182f0bdc97"
+  },
+  {
+    "path": "提示词素材库/043_01/README.md",
+    "bytes": 1374,
+    "sha256": "5c784f29c081fe72c44941f8a84967c2a205b202dded21128606a702eb96e96b"
+  },
+  {
+    "path": "提示词素材库/043_01/素材对应.json",
+    "bytes": 895,
+    "sha256": "99902abdaef788a4e75acd3c6a38db626241c165aa546c34deecf02f7c0ba051"
+  },
+  {
+    "path": "提示词素材库/043_01/02_前.png",
+    "bytes": 2017510,
+    "sha256": "7d9112733aa8a69fcef4ac6a42a547c7b6a747ccac48b8c7c59741425ea4dee4"
+  },
+  {
+    "path": "提示词素材库/043_01/提示词.txt",
+    "bytes": 1008,
+    "sha256": "805883c5f205219bb84a76d220462275c737af72590f07f32a030342d0aba0a0"
+  },
+  {
+    "path": "提示词素材库/043_01/03_前.png",
+    "bytes": 1322499,
+    "sha256": "22cec9d8f3e505862c12c3c89040c7f65f1b455ed9881b432d3e6a45540fda96"
+  },
+  {
+    "path": "提示词素材库/043_01/01_前.png",
+    "bytes": 2974380,
+    "sha256": "0c4436b10e41f7162107ed4f82e4721a3afaa95f8ae87b24d225989d67c85396"
+  },
+  {
+    "path": "提示词素材库/031_01/02_后.png",
+    "bytes": 5187229,
+    "sha256": "0bd1a111d7302b359f1032cabb4ed1f661728429abb9773a518974d1c153b1a6"
+  },
+  {
+    "path": "提示词素材库/031_01/03_后.png",
+    "bytes": 3869927,
+    "sha256": "eec968e9cef75a822afec3e5f06d505eae08c85a57e6d6b8745321003b9b7eeb"
+  },
+  {
+    "path": "提示词素材库/031_01/01_后.png",
+    "bytes": 4484489,
+    "sha256": "2443643ef710e39dedbdcbaca63873698ae95a6d07f6371e1b158c5005fbaf12"
+  },
+  {
+    "path": "提示词素材库/031_01/README.md",
+    "bytes": 1633,
+    "sha256": "f19037adea0d952a6f36b218db7815cb4a8d445847f5f21fa90d2d8e044dec61"
+  },
+  {
+    "path": "提示词素材库/031_01/素材对应.json",
+    "bytes": 895,
+    "sha256": "3f1177e913b9822aa197b544f4d36c45317cecea5063c2b58182c4a771fb0617"
+  },
+  {
+    "path": "提示词素材库/031_01/02_前.png",
+    "bytes": 5765107,
+    "sha256": "043e015f5f569efe935a57bdbed8136d93b31b1339f6c09a44efdbd8fc03da77"
+  },
+  {
+    "path": "提示词素材库/031_01/提示词.txt",
+    "bytes": 1267,
+    "sha256": "256e511c9b526c0a6c10c77b771ffd9c3f38e7336bf0243a44e14f05e7e26e51"
+  },
+  {
+    "path": "提示词素材库/031_01/03_前.png",
+    "bytes": 4431982,
+    "sha256": "72d7046d4c66eb9a922772598d8536ad7ff0bc081112ca9ccaa053fe7d4b29a5"
+  },
+  {
+    "path": "提示词素材库/031_01/01_前.png",
+    "bytes": 4856647,
+    "sha256": "c80e2eeddafb0fb55474f36b76fbf633cc2a71aaffa30a8a1864f04fe0a7c640"
+  },
+  {
+    "path": "提示词素材库/060_01/02_后.jpg",
+    "bytes": 323299,
+    "sha256": "4ffa890bbd881838f8fc3b9d3cdd702b5225b703db0c629c46feaf1366ee99ea"
+  },
+  {
+    "path": "提示词素材库/060_01/03_后.jpg",
+    "bytes": 236513,
+    "sha256": "20cc6961f558dc8a860ccb0c7b13fe113ee03b1c898f0ec0d9565d3bf3c42741"
+  },
+  {
+    "path": "提示词素材库/060_01/01_后.jpg",
+    "bytes": 361992,
+    "sha256": "96afe2c9a276cbdd54d90b4325d97bc60f5547df76859833ffd16d2237e6252c"
+  },
+  {
+    "path": "提示词素材库/060_01/README.md",
+    "bytes": 1221,
+    "sha256": "592fd5b89094e1ff9edf74f75622b57bbfefc038930d17b7e9c1d1af8a63ff6d"
+  },
+  {
+    "path": "提示词素材库/060_01/素材对应.json",
+    "bytes": 649,
+    "sha256": "9bfa5dd6807823df4cd397b859316483641e5093502b566d4591c969ccaabebc"
+  },
+  {
+    "path": "提示词素材库/060_01/02_前.jpg",
+    "bytes": 409392,
+    "sha256": "154ab9ac6a1d1635bf5ca993adc6fb3aa400cbffcf6ffa56d059d631e09a77d9"
+  },
+  {
+    "path": "提示词素材库/060_01/提示词.txt",
+    "bytes": 867,
+    "sha256": "2a77eee8588995c849103bc3ee1831ee34db5021e44fa053759783988dd662c2"
+  },
+  {
+    "path": "提示词素材库/060_01/03_前.jpg",
+    "bytes": 301817,
+    "sha256": "ce1825473497fb52b0f1f41b105a7ae0b11047d157adaa5cbf8b221eea39f406"
+  },
+  {
+    "path": "提示词素材库/060_01/01_前.jpg",
+    "bytes": 369725,
+    "sha256": "f66e4216e859073766f47dca74be96cc7e186e945bbc12296763c2acd85da888"
+  },
+  {
+    "path": "提示词素材库/054_01/02_后.jpg",
+    "bytes": 560942,
+    "sha256": "f6ffefc1f765169ea3045fd74de45575ef261d821031506fb3cacf2ef9e13a94"
+  },
+  {
+    "path": "提示词素材库/054_01/03_后.jpg",
+    "bytes": 363397,
+    "sha256": "addcdf9084833ea2a5eb5427e775f11ad355f5794e1915e90e52103769593477"
+  },
+  {
+    "path": "提示词素材库/054_01/01_后.jpg",
+    "bytes": 492941,
+    "sha256": "bd338a1408dbab7dbc8142279e2eb187a2f2f02c8ba3d3bcb73e23cbac5537ee"
+  },
+  {
+    "path": "提示词素材库/054_01/README.md",
+    "bytes": 1030,
+    "sha256": "9bf043a64ada4c2628d393e26149242de00733db75ae7b1179015569f63d5a01"
+  },
+  {
+    "path": "提示词素材库/054_01/素材对应.json",
+    "bytes": 631,
+    "sha256": "a894c91cb63634b21b401858203add8880b601f820e8629b1d077c66820ce0d7"
+  },
+  {
+    "path": "提示词素材库/054_01/02_前.jpg",
+    "bytes": 484022,
+    "sha256": "23fb1b490b2489d2d62debf78e0ca7a060894b825b3a1c42db18040b783ab33a"
+  },
+  {
+    "path": "提示词素材库/054_01/提示词.txt",
+    "bytes": 676,
+    "sha256": "3fb1d8a29972a5e23e3ad28185ea16c1de9746a1e49345a080232db52c38ae5d"
+  },
+  {
+    "path": "提示词素材库/054_01/03_前.jpg",
+    "bytes": 358351,
+    "sha256": "18b1707d208172f77994dbe117f86b2283932510d826e7a161096d9565e7f252"
+  },
+  {
+    "path": "提示词素材库/054_01/01_前.jpg",
+    "bytes": 477779,
+    "sha256": "be64ee1c29c2c8ab29e056231bfd97dfa56cd43fe1b23f2c217ec06e7ab763e2"
+  },
+  {
+    "path": "提示词素材库/005_01/02_后.png",
+    "bytes": 1233511,
+    "sha256": "ee73986d45b98cf46c79e8e64bbbfd09836529d43080a8215b4338799ec49bdd"
+  },
+  {
+    "path": "提示词素材库/005_01/01_后.png",
+    "bytes": 1183117,
+    "sha256": "9dd741c4690564b2dcaeb14c6623ad5da77f1b5e28db7c18bb55a139ccababcb"
+  },
+  {
+    "path": "提示词素材库/005_01/README.md",
+    "bytes": 1208,
+    "sha256": "615cdefe2d7ac6141410cae937267688433af0f74fa0b39b6917336f588755e0"
+  },
+  {
+    "path": "提示词素材库/005_01/素材对应.json",
+    "bytes": 545,
+    "sha256": "1bb755b1c34b000f0f8f02cf195fd99c13c8b83d430aa10427abec9e6721af12"
+  },
+  {
+    "path": "提示词素材库/005_01/02_前.png",
+    "bytes": 1193717,
+    "sha256": "1bb99450d4b67e33a52a1f1da06e0552c2b91ad190a3dce48b65860dcc245d5f"
+  },
+  {
+    "path": "提示词素材库/005_01/提示词.txt",
+    "bytes": 907,
+    "sha256": "fc66ea6d0a7fe927b14e02129a43514e4b9f7c50f13ba1d82326f7766a531b7a"
+  },
+  {
+    "path": "提示词素材库/005_01/01_前.png",
+    "bytes": 1195893,
+    "sha256": "7d9b74eb2bc94ac835668f771099d21a45fd2a4fe93438824ea8fa30df40b896"
+  },
+  {
+    "path": "提示词素材库/044_01/02_后.png",
+    "bytes": 3421573,
+    "sha256": "10c12f0c8f508bb8481bb0a820fc0abcfd8da5926a2dbf0afe888ffbf2cae656"
+  },
+  {
+    "path": "提示词素材库/044_01/03_后.png",
+    "bytes": 4905112,
+    "sha256": "998e9908c0756f995849a1bedf0a24a8349e1946ef0fed7f6b82017d2e80a75a"
+  },
+  {
+    "path": "提示词素材库/044_01/01_后.png",
+    "bytes": 3238073,
+    "sha256": "5e3119d4200b763cf677e5fbc86ea8568db29d5e41d674cb81d7ca22e7098902"
+  },
+  {
+    "path": "提示词素材库/044_01/README.md",
+    "bytes": 1401,
+    "sha256": "ee215c45fa8f9b39d75950952901263d378b91f7d095649e73fb5490010ddfc4"
+  },
+  {
+    "path": "提示词素材库/044_01/素材对应.json",
+    "bytes": 892,
+    "sha256": "acfd06d75d2dcdcebc70ff4eb765ee5ca69fb1b830a52acbf30b6cef61dcf5f7"
+  },
+  {
+    "path": "提示词素材库/044_01/02_前.png",
+    "bytes": 3251117,
+    "sha256": "4a807e44a23748544ea12bcf9a9f75ec8e6b2af1b022fd63d47f542a75a2ad1e"
+  },
+  {
+    "path": "提示词素材库/044_01/提示词.txt",
+    "bytes": 1038,
+    "sha256": "265eb1f1f26189eeced637cd4a0247b2bfbede55c0c3ec8d907741956e596c8f"
+  },
+  {
+    "path": "提示词素材库/044_01/03_前.png",
+    "bytes": 4692849,
+    "sha256": "3b87c2f4ed260ef5a16ea251efa864d7eabac17daf709d4f0fdcfa5a676d1957"
+  },
+  {
+    "path": "提示词素材库/044_01/01_前.png",
+    "bytes": 2893997,
+    "sha256": "40527f8d6d8bf2e108daca516f741ab4d6e989aedaa3787bbf5b062a171705ca"
+  },
+  {
+    "path": "提示词素材库/009_02/01_后.png",
+    "bytes": 1156010,
+    "sha256": "081d9d3216defaacee866cc85c2c3004160116eb4631cb4f8218467042929365"
+  },
+  {
+    "path": "提示词素材库/009_02/README.md",
+    "bytes": 1358,
+    "sha256": "7fcd3c26173749001461b3f0aa36b36ea92b91697e47b30baf08c3f6a3f2e19a"
+  },
+  {
+    "path": "提示词素材库/009_02/素材对应.json",
+    "bytes": 348,
+    "sha256": "09e7b767acb26d714e4dcddfa04e9306b6d8e3c548fc24315d8c3ae0ebf79087"
+  },
+  {
+    "path": "提示词素材库/009_02/提示词.txt",
+    "bytes": 1164,
+    "sha256": "ffdbb6c522563969c25e20b9689f804efbb8ac71988b39a60e432693fd302a42"
+  },
+  {
+    "path": "提示词素材库/009_02/01_前.png",
+    "bytes": 784093,
+    "sha256": "f8f1a91b61fcadd26711ad277c781252c33fe53a6ab4d017951acaa4ae6dac9e"
+  },
+  {
+    "path": "提示词素材库/021_01/02_后.png",
+    "bytes": 3342690,
+    "sha256": "7263590e7621307dddc3b365c093ba362b67f3e7a4632a36a3eed1aeb8e1b3d0"
+  },
+  {
+    "path": "提示词素材库/021_01/03_后.png",
+    "bytes": 3110220,
+    "sha256": "fe29826c715b7fdc9f9f14faec4162f9c64484837f44dbf061d46f23c61053a4"
+  },
+  {
+    "path": "提示词素材库/021_01/01_后.png",
+    "bytes": 3111453,
+    "sha256": "a50eef61b7016c5e0edf56b2d0d3ef52aeb657a6ac1db9929bda98f2d452e09e"
+  },
+  {
+    "path": "提示词素材库/021_01/README.md",
+    "bytes": 1595,
+    "sha256": "922695d177b371bd22a27f70664cf654180f2f9cd4f791322b4e6ee0cec4bc25"
+  },
+  {
+    "path": "提示词素材库/021_01/素材对应.json",
+    "bytes": 918,
+    "sha256": "a3ff53876622067159814556e1e9d0b5ea5d140b04036e35fab00a06c474df72"
+  },
+  {
+    "path": "提示词素材库/021_01/02_前.png",
+    "bytes": 195078,
+    "sha256": "2adf248c09d0cb3d180501b2feae62acb01c098da34c503afc6ea64c3886af71"
+  },
+  {
+    "path": "提示词素材库/021_01/提示词.txt",
+    "bytes": 1209,
+    "sha256": "54cf50599fe12b56df4805a15db6698976c32ef6adbd3c20f7203d81521909c4"
+  },
+  {
+    "path": "提示词素材库/021_01/03_前.png",
+    "bytes": 157050,
+    "sha256": "1bc0dd1681455c678e20e5b8944e70e274dbd790edad17f525946ebac7aaad12"
+  },
+  {
+    "path": "提示词素材库/021_01/01_前.png",
+    "bytes": 125206,
+    "sha256": "a1ee3ecd52c7a7489435d495ba24251ac06a933e1f0f4e7b4c1c9d9c53b78b67"
+  },
+  {
+    "path": "提示词素材库/001_01/02_后.png",
+    "bytes": 914570,
+    "sha256": "0da9e4c342b9d049099f854ac32d299cd8becdef94192b4dc7ae9fba19abff66"
+  },
+  {
+    "path": "提示词素材库/001_01/03_后.png",
+    "bytes": 1797564,
+    "sha256": "99d6e646519ad4d599d85003d55fe564dd59cc333d61176330d097d618faa0b7"
+  },
+  {
+    "path": "提示词素材库/001_01/01_后.png",
+    "bytes": 1479180,
+    "sha256": "e75f495b0055950d37b9110d525afd4f444fb2b1fb7ba0ff4304c0fd91115f5f"
+  },
+  {
+    "path": "提示词素材库/001_01/README.md",
+    "bytes": 2860,
+    "sha256": "9481217563711794ad74cb9844e702bce7d5a044bc445fa5becda283b6365188"
+  },
+  {
+    "path": "提示词素材库/001_01/素材对应.json",
+    "bytes": 749,
+    "sha256": "7f3f1a82468109b29508b990957627967b66488b748a587686e49cdda9c802bc"
+  },
+  {
+    "path": "提示词素材库/001_01/02_前.png",
+    "bytes": 1587357,
+    "sha256": "e0d331192a315e13fef5b8e2defcaafa699a0529458f0163360a3b48c342e7ce"
+  },
+  {
+    "path": "提示词素材库/001_01/提示词.txt",
+    "bytes": 2479,
+    "sha256": "0d8ca19d8d7e9b2c2c2c61954795b41a5897a0edb2bba78e0cfd274f13d1b17b"
+  },
+  {
+    "path": "提示词素材库/001_01/03_前.png",
+    "bytes": 1373012,
+    "sha256": "2309abe0fb6c4808445b5c8feaa0c9c8a0c571115ed9935eb06867dbae8c590f"
+  },
+  {
+    "path": "提示词素材库/001_01/01_前.png",
+    "bytes": 991267,
+    "sha256": "67e8f1081cd11ced7a8de050b03ac501f5977ba7e5e431a960cba851cbd19d29"
+  },
+  {
+    "path": "提示词素材库/050_01/02_后.jpg",
+    "bytes": 1029620,
+    "sha256": "e0a4e45e4cd04fe098cfc634b6ce0048d5df660ea0d9a15c0f9aa4d4db27c0a8"
+  },
+  {
+    "path": "提示词素材库/050_01/03_后.jpg",
+    "bytes": 1015016,
+    "sha256": "f3dcc0efdf3191d6c5bca24b9880c2477e2972812b653510680c3a45978475ae"
+  },
+  {
+    "path": "提示词素材库/050_01/01_后.jpg",
+    "bytes": 1252040,
+    "sha256": "f3f46e92b54c78a1aaa6a5386b476349e6c79186908b9ba7303914cb2ec0354a"
+  },
+  {
+    "path": "提示词素材库/050_01/README.md",
+    "bytes": 928,
+    "sha256": "51e7b78c2a71585da0512c99ad9839c264f39f7d2a735b262613f09dd7893070"
+  },
+  {
+    "path": "提示词素材库/050_01/素材对应.json",
+    "bytes": 667,
+    "sha256": "ec78ceaff46195ad7fdacd256a6a4ac2f6f7f806f95c1644434210ea976cf471"
+  },
+  {
+    "path": "提示词素材库/050_01/02_前.jpg",
+    "bytes": 1147027,
+    "sha256": "91b3e743fb4cb9d75ac478b813de46bd8d4e5752cf64f98dd158972b38ce54c8"
+  },
+  {
+    "path": "提示词素材库/050_01/提示词.txt",
+    "bytes": 556,
+    "sha256": "2254757ec9d2c48b4264a884b47bd03ad181e7f987f11f254b907e3056e7813c"
+  },
+  {
+    "path": "提示词素材库/050_01/03_前.jpg",
+    "bytes": 1098811,
+    "sha256": "539af105bb47b14cb01d9769c0416ce9db264cba54cd231b71e166521081454e"
+  },
+  {
+    "path": "提示词素材库/050_01/01_前.jpg",
+    "bytes": 1372491,
+    "sha256": "650e44ae457b6640e2635882e3a23ee3bf0e75d9ff67aab6f1cfbd164f572b43"
+  },
+  {
+    "path": "提示词素材库/064_01/02_后.jpg",
+    "bytes": 549769,
+    "sha256": "d5ddf1de64a75a9c8fdff849d3fae1e9da00b0aa1e3dd90b287608f771493e87"
+  },
+  {
+    "path": "提示词素材库/064_01/03_后.jpg",
+    "bytes": 367665,
+    "sha256": "d904804f0b34fa644171cef71dc57406a6c7ae080530a1530df35a8896414e1a"
+  },
+  {
+    "path": "提示词素材库/064_01/01_后.jpg",
+    "bytes": 528175,
+    "sha256": "53ed25b2d02ced33db98fcb6d40ef52d422a47c41d2a1cfed10148fc8b8ad620"
+  },
+  {
+    "path": "提示词素材库/064_01/README.md",
+    "bytes": 826,
+    "sha256": "820bc9b915e1547683febca92df7205d1de02027f9e835c1d8de4dc77e4b1dd0"
+  },
+  {
+    "path": "提示词素材库/064_01/素材对应.json",
+    "bytes": 752,
+    "sha256": "cbd7643bc5fdf9a84e0d73b10a53f3300569946a1a1fb110ccf860f4fdd83140"
+  },
+  {
+    "path": "提示词素材库/064_01/02_前.jpg",
+    "bytes": 531877,
+    "sha256": "494211f1b97a869ef0b63c4ce7e91700e5b5d4382cdeaf0f7c9e65bb6f59adc0"
+  },
+  {
+    "path": "提示词素材库/064_01/提示词.txt",
+    "bytes": 369,
+    "sha256": "b22c56aeaa99dbf98efc243eb6fda1b161d2e1c49a4d6add177641cd73867623"
+  },
+  {
+    "path": "提示词素材库/064_01/03_前.jpg",
+    "bytes": 508543,
+    "sha256": "cc7d9011803ec41f4764fa38cc59f3f2389180107a7e7d09675c30fabd576cac"
+  },
+  {
+    "path": "提示词素材库/064_01/01_前.jpg",
+    "bytes": 683743,
+    "sha256": "40f54c94b67ce7746bec2f98ea93a1604736fe1c212be96044d539999850f568"
+  },
+  {
+    "path": "提示词素材库/035_01/02_后.png",
+    "bytes": 4365452,
+    "sha256": "78addc94a18fa89bc032df966e39720feeca6ff0302f6bd00ecb05928a8adab7"
+  },
+  {
+    "path": "提示词素材库/035_01/03_后.png",
+    "bytes": 1703031,
+    "sha256": "470b412ec0233fba9be0a277438dd461eef219e2827ce3d257d7f30498dcd58f"
+  },
+  {
+    "path": "提示词素材库/035_01/01_后.png",
+    "bytes": 3598810,
+    "sha256": "ff196d50cc2e95409a45690344b3e1369c8243d570a7abc279818ad2558a22bf"
+  },
+  {
+    "path": "提示词素材库/035_01/README.md",
+    "bytes": 3270,
+    "sha256": "a499ef4a43e4510dbd6601e864762aa12352168749693ae65ba1270a72ae2f0c"
+  },
+  {
+    "path": "提示词素材库/035_01/素材对应.json",
+    "bytes": 929,
+    "sha256": "9aa686bae1fdff014640902be834f7a170b02ad0f1fc4500b1dd6cc438192cfa"
+  },
+  {
+    "path": "提示词素材库/035_01/02_前.png",
+    "bytes": 4011863,
+    "sha256": "cb446cf179461631bf22df904fa8684e06abe6add0723954248ba4dc6f543bdd"
+  },
+  {
+    "path": "提示词素材库/035_01/提示词.txt",
+    "bytes": 2870,
+    "sha256": "7ab3ec73ad5f52394656f0e06af67b834f295496a78f75b77f1fbe0fb10ab0f2"
+  },
+  {
+    "path": "提示词素材库/035_01/03_前.png",
+    "bytes": 2197178,
+    "sha256": "f7ae78f61de18be500c8d14345d2b0264757f14320ce70c83a5c11ab098e1e7c"
+  },
+  {
+    "path": "提示词素材库/035_01/01_前.png",
+    "bytes": 3209965,
+    "sha256": "3a5cb592d285ad8a58427e9c585538946cd748db0093bfbf065c8e4a0100e727"
+  },
+  {
+    "path": "提示词素材库/009_03/01_后.png",
+    "bytes": 1042031,
+    "sha256": "ae416c2245c5439e52dada02b82e5fd8cca34594e7f272bfce499ecf1a487cd8"
+  },
+  {
+    "path": "提示词素材库/009_03/README.md",
+    "bytes": 1249,
+    "sha256": "628e27ae90cb92b5e74cb224853c1b64b33e4fda25d2d424700d83b5b9906c4d"
+  },
+  {
+    "path": "提示词素材库/009_03/素材对应.json",
+    "bytes": 345,
+    "sha256": "f8bc01de9acefa7006f4a59ce276a92906018dd7654dba0f09f22eaf81153372"
+  },
+  {
+    "path": "提示词素材库/009_03/提示词.txt",
+    "bytes": 1058,
+    "sha256": "e8ed949c665a309e2462e7a8b7a54803c2304c52f547604ca7b4d40551680c4b"
+  },
+  {
+    "path": "提示词素材库/009_03/01_前.png",
+    "bytes": 867370,
+    "sha256": "623681b07450c248bb6ba5a26fc1a706218cfdca94f4245cad0f6f9a95c2fe7e"
+  },
+  {
+    "path": "提示词素材库/009_04/02_后.png",
+    "bytes": 1165976,
+    "sha256": "c4bd76c4a1a86a0e6894ed37744653f50ed93c6e49037da502ff2a951d51ff57"
+  },
+  {
+    "path": "提示词素材库/009_04/01_后.png",
+    "bytes": 1170401,
+    "sha256": "72bf981ecc021084be888d6b12a2f3d582392568d8721485af8aa4a8324e36f4"
+  },
+  {
+    "path": "提示词素材库/009_04/README.md",
+    "bytes": 1878,
+    "sha256": "c80315982a838c4dc4d31e1e0965bd090ec8db226c58beae0adcef122bca0c23"
+  },
+  {
+    "path": "提示词素材库/009_04/素材对应.json",
+    "bytes": 518,
+    "sha256": "207737283d280e96d2db9c563f44e30c935345dcdc290d3c1d518e40112e5785"
+  },
+  {
+    "path": "提示词素材库/009_04/02_前.png",
+    "bytes": 1164882,
+    "sha256": "947fd14ef2b79835c8238b380a4299654584c2d16eac8774351bb0bd0fb3fdff"
+  },
+  {
+    "path": "提示词素材库/009_04/提示词.txt",
+    "bytes": 1610,
+    "sha256": "500cfd56a33c46f9d64b7af2d2230e7d4bd16f48a5de6095272aa1763f636832"
+  },
+  {
+    "path": "提示词素材库/009_04/01_前.png",
+    "bytes": 948527,
+    "sha256": "f24406aeae85216f989b643a5e66eee4e6aafd94cccc375612f003d5e91fcf29"
+  },
+  {
+    "path": "提示词素材库/025_01/02_前.webp",
+    "bytes": 35312,
+    "sha256": "932809f00aeec5c3b2cc16df5d846a6239eeaec547a721bb2b5f5cfd0219b1f2"
+  },
+  {
+    "path": "提示词素材库/025_01/02_后.png",
+    "bytes": 1110122,
+    "sha256": "b8e12e96c95d07a7c92eb972e47e86b88319bb3810cce52d6a07ddd708d1c35e"
+  },
+  {
+    "path": "提示词素材库/025_01/03_后.png",
+    "bytes": 946896,
+    "sha256": "8f7473c3c4773c0cf6f3c6990dd5cdbc45acfd44a3a53035004edb33e0567961"
+  },
+  {
+    "path": "提示词素材库/025_01/01_后.png",
+    "bytes": 769443,
+    "sha256": "79d8b1f8f5baee9c7acc9e280a1b720a65eb717332e5bb6800c40dac62018ca4"
+  },
+  {
+    "path": "提示词素材库/025_01/README.md",
+    "bytes": 2535,
+    "sha256": "546b019dc73cd8ea2837351f8c02af9c6c4167f889249e754a1f55006b8a7d76"
+  },
+  {
+    "path": "提示词素材库/025_01/01_前.webp",
+    "bytes": 27962,
+    "sha256": "eb5caa7b8deaaeafe6e734819f2cb122012abf95175820dcdd9883ec8cf2d3b9"
+  },
+  {
+    "path": "提示词素材库/025_01/素材对应.json",
+    "bytes": 1168,
+    "sha256": "bbaf9a2dea084ab930eeca5ec763c81206de1e43f5cdd6ea97634a33a59be8a0"
+  },
+  {
+    "path": "提示词素材库/025_01/03_前.webp",
+    "bytes": 70940,
+    "sha256": "dd5a89dd229da37cb4a1201a39bdc244adece12c224b3157e0f9aa0cabfa6458"
+  },
+  {
+    "path": "提示词素材库/025_01/提示词.txt",
+    "bytes": 2067,
+    "sha256": "15c2ea7c7407ea95517e08d1a1273ee5d621b252e1844bb5e0e649d8e46c0795"
+  },
+  {
+    "path": "提示词素材库/040_01/02_后.png",
+    "bytes": 1891519,
+    "sha256": "cc196626e508c0c4228ff69bdf0014cae9b5e9e1e370e0a32d4d9152d5389a53"
+  },
+  {
+    "path": "提示词素材库/040_01/03_后.png",
+    "bytes": 1865411,
+    "sha256": "cc70cb8b90f3d8175a55ed4390afe41367171bf66f5e5a6f519679dd78910b3a"
+  },
+  {
+    "path": "提示词素材库/040_01/01_后.png",
+    "bytes": 2673598,
+    "sha256": "4a73a177968817ec17b92d0b809c2baf6fe5337d43c8c83be2b7d402dd55c15b"
+  },
+  {
+    "path": "提示词素材库/040_01/README.md",
+    "bytes": 2863,
+    "sha256": "da6caeab8227732cc1e357b67ea518af4073cf5473978b4e060d463d73ffce91"
+  },
+  {
+    "path": "提示词素材库/040_01/素材对应.json",
+    "bytes": 892,
+    "sha256": "0cecb431873652efe7ef407f820903f89c77534b4f3c411ded91cb56c8e23392"
+  },
+  {
+    "path": "提示词素材库/040_01/02_前.png",
+    "bytes": 2173512,
+    "sha256": "fc0f76a157684a2f6935604f667c5f949339e964ad4220f3ee6efc9fb2d0cbe0"
+  },
+  {
+    "path": "提示词素材库/040_01/提示词.txt",
+    "bytes": 2500,
+    "sha256": "445de0e20f83dce1c6779c1aab813288ba2f584622cbecb8e8cbf0dd3d1c066c"
+  },
+  {
+    "path": "提示词素材库/040_01/03_前.png",
+    "bytes": 1866438,
+    "sha256": "fdceaee5ef435c7bdeb884a8ca53a3712c9397529c590379e80351c8a435b161"
+  },
+  {
+    "path": "提示词素材库/040_01/01_前.png",
+    "bytes": 2709105,
+    "sha256": "9d9e0fc3b56bc48d6a38e835091a11b84b15ef7175855c791885cfddab1bab8f"
+  },
+  {
+    "path": "提示词素材库/011_01/02_后.png",
+    "bytes": 1287305,
+    "sha256": "1a999551de681f451fbfb4e98458dedc0234acdfca74a0796c8c6a6261c4b30d"
+  },
+  {
+    "path": "提示词素材库/011_01/03_后.png",
+    "bytes": 1341852,
+    "sha256": "a357789cfd515db1fef3b4fcb25d7aba4731e44b6bfac7d9a35b8787bc4fc62b"
+  },
+  {
+    "path": "提示词素材库/011_01/01_后.png",
+    "bytes": 1269674,
+    "sha256": "a617f929b61369dd89ee13463331eca1cb211279a2195127ece81e77f2798679"
+  },
+  {
+    "path": "提示词素材库/011_01/README.md",
+    "bytes": 1718,
+    "sha256": "274db83815af24f873933c089f6d6d7fe85ec1011c8151fcb6d709952114130b"
+  },
+  {
+    "path": "提示词素材库/011_01/素材对应.json",
+    "bytes": 733,
+    "sha256": "1a04d0dbda23bd4f0756709c8600b51801810291ac315e53f33cb38b978189e9"
+  },
+  {
+    "path": "提示词素材库/011_01/02_前.png",
+    "bytes": 1150167,
+    "sha256": "fcf812fce2fd98a37e6f850b4d280e13883f8f1d2d1ce553dbf0865204181e73"
+  },
+  {
+    "path": "提示词素材库/011_01/提示词.txt",
+    "bytes": 1331,
+    "sha256": "2e783858c9f34a6835457f7e46d6b51de996b884cc8a4c617bd5a6ed7a525848"
+  },
+  {
+    "path": "提示词素材库/011_01/03_前.png",
+    "bytes": 1047190,
+    "sha256": "75d17df45f2eb278ad931a2bd02af2fb4d0be8b5a1e3fdc1f33ccda81589d322"
+  },
+  {
+    "path": "提示词素材库/011_01/01_前.png",
+    "bytes": 1092923,
+    "sha256": "4b188e15e35153c82bbc1c5945bcb455ae01c0757ff4defb21d3e96d61bdc50e"
+  },
+  {
+    "path": "提示词素材库/051_01/02_小图.jpg",
+    "bytes": 239910,
+    "sha256": "aa67ff819888103e312258d68e07da2df5dc14facb1a84d0e6697b940e122a95"
+  },
+  {
+    "path": "提示词素材库/051_01/01_大图.jpg",
+    "bytes": 1190379,
+    "sha256": "e00d1280c255e106690e35d0fb92c89606cc2c2133b6e160428f7e848b1de68c"
+  },
+  {
+    "path": "提示词素材库/051_01/03_大图.jpg",
+    "bytes": 1040051,
+    "sha256": "8711d426357fb1bca92aafbe42c562d372d5ad64fca7fbae99e435c2b0ddc0b5"
+  },
+  {
+    "path": "提示词素材库/051_01/README.md",
+    "bytes": 1486,
+    "sha256": "7bf07b96f307633ebbc726d37216bcdb512a6326259db6e03055ff25be44ca4f"
+  },
+  {
+    "path": "提示词素材库/051_01/素材对应.json",
+    "bytes": 940,
+    "sha256": "1d1642804f2bc739b91140c4bfa4a18f63d29bfe92a631dddba485d02fa55425"
+  },
+  {
+    "path": "提示词素材库/051_01/提示词.txt",
+    "bytes": 886,
+    "sha256": "760a176e0f90921f249645f746fabfec39fb169479d3df2dbc41afe7e9151159"
+  },
+  {
+    "path": "提示词素材库/051_01/03_小图.jpg",
+    "bytes": 177853,
+    "sha256": "da12e121dd4cab311ac2795df300894b76d57daba55dce7bb427d4a0f87e0321"
+  },
+  {
+    "path": "提示词素材库/051_01/02_大图.jpg",
+    "bytes": 1250828,
+    "sha256": "2d22beb37ad6a14aba222f7af838e8dc6beebe809616928de6a850e5359195ec"
+  },
+  {
+    "path": "提示词素材库/051_01/01_小图.jpg",
+    "bytes": 208939,
+    "sha256": "e198ebadfc056914d1fd77a82d51e6efc502faedd6a26b408313c002ca4f3385"
+  },
+  {
+    "path": "提示词素材库/065_01/02_后.jpg",
+    "bytes": 696512,
+    "sha256": "bf03480829a62ec7b6e5f08eea7e8ced49c6f9bc06d8cb1357a5135cd6a6c434"
+  },
+  {
+    "path": "提示词素材库/065_01/03_后.jpg",
+    "bytes": 764488,
+    "sha256": "53e0c7aa1447c8abd3f04b36f08c15f39b845bd8abd26c1225aff1dc88cf2c93"
+  },
+  {
+    "path": "提示词素材库/065_01/01_后.jpg",
+    "bytes": 675009,
+    "sha256": "87ad4b52a4349ec5ba582051d502e1c1bcc9cc30f8391d1751d6ef0e21546106"
+  },
+  {
+    "path": "提示词素材库/065_01/README.md",
+    "bytes": 933,
+    "sha256": "36353cd86e8add49d619a7f7a1b54485919465bbfb418b366f32c12db997c0a5"
+  },
+  {
+    "path": "提示词素材库/065_01/素材对应.json",
+    "bytes": 669,
+    "sha256": "813ac6380d9f47c7baeb7564b444141de9a49712559e95e09bac50d2a34a1904"
+  },
+  {
+    "path": "提示词素材库/065_01/02_前.jpg",
+    "bytes": 668942,
+    "sha256": "12b6b08b2e748c53d7931f8f54380e774596c65fa2036771dd465e8b739d35cc"
+  },
+  {
+    "path": "提示词素材库/065_01/提示词.txt",
+    "bytes": 559,
+    "sha256": "aa432b97c8333d47491bfbf35a7bb3869e145b6a202b7f971b906c4c757f6cbc"
+  },
+  {
+    "path": "提示词素材库/065_01/03_前.jpg",
+    "bytes": 727224,
+    "sha256": "894c227d1d215f14f21854dd61e0a05e9f0301007eeecd6755ab302f0d193ac6"
+  },
+  {
+    "path": "提示词素材库/065_01/01_前.jpg",
+    "bytes": 688827,
+    "sha256": "755bee1afe1b612cc6b20d3f3f3db0a77ef2ed584aecc34fe95a6c27efb91125"
+  },
+  {
+    "path": "提示词素材库/034_01/02_后.png",
+    "bytes": 2651357,
+    "sha256": "917b332bb412c6e3106fcccc935555b23d1d9e27061fffd8963888f1b2249250"
+  },
+  {
+    "path": "提示词素材库/034_01/03_后.png",
+    "bytes": 2448818,
+    "sha256": "9a1f9353582b6b8200e75aa7d5b120afb8c02d13b690140d3503cb75099e7653"
+  },
+  {
+    "path": "提示词素材库/034_01/01_后.png",
+    "bytes": 3133884,
+    "sha256": "a736c8a50c7530f913c2147a9c1a31653a5fb2e9fcc6a6842d3b5f12210ac045"
+  },
+  {
+    "path": "提示词素材库/034_01/README.md",
+    "bytes": 2602,
+    "sha256": "47c932b05d72332e1cbbc7950a91cf4e47c4ae3105ab4baca8c5f32e1925087e"
+  },
+  {
+    "path": "提示词素材库/034_01/素材对应.json",
+    "bytes": 901,
+    "sha256": "df3bc1b2750964ad41560cb4b90d5a100e0732d92f02ec09665d811295abf1a9"
+  },
+  {
+    "path": "提示词素材库/034_01/02_前.png",
+    "bytes": 3055159,
+    "sha256": "20703b10b15aa1c5a5a763e96fa46c7ca2d90907e3bfd5938e3632d6421c22a6"
+  },
+  {
+    "path": "提示词素材库/034_01/提示词.txt",
+    "bytes": 2230,
+    "sha256": "12bda6b5a86fb4ac92aa8f2143340c8e42fc7aa8fb9d4eb6f88cb7ef06af1b27"
+  },
+  {
+    "path": "提示词素材库/034_01/03_前.png",
+    "bytes": 2767182,
+    "sha256": "9e4e004921dc4366fac6b214996ca6737866d19b74ed6f93e229b63134897f83"
+  },
+  {
+    "path": "提示词素材库/034_01/01_前.png",
+    "bytes": 3263924,
+    "sha256": "c1337826841e6afedd1afcfb6e59fe7b4ba61cedbd0a07db1cd8b3066945d627"
+  },
+  {
+    "path": "提示词素材库/018_04/01_后.png",
+    "bytes": 2288661,
+    "sha256": "9ef5e90e9be783d5f19f15f86ce136894384409947f696d9013a0aad233461f3"
+  },
+  {
+    "path": "提示词素材库/018_04/README.md",
+    "bytes": 2724,
+    "sha256": "83960257cf2b147df09fd069e1150386d963dad6ab1ad465f9d36f8fc0f6a405"
+  },
+  {
+    "path": "提示词素材库/018_04/素材对应.json",
+    "bytes": 401,
+    "sha256": "20e9edffc34e7451de6b948064ee70e9e6f7c468c65c42f6f206b161391351fd"
+  },
+  {
+    "path": "提示词素材库/018_04/提示词.txt",
+    "bytes": 2539,
+    "sha256": "96b4cc2f121f67e6e1bd4c780b0a6b982c512e1a87ffe942f465cd3783a6578d"
+  },
+  {
+    "path": "提示词素材库/018_04/01_前.png",
+    "bytes": 254310,
+    "sha256": "bc77d0264dc64c571b783c3933509650820da41eca7e8d31c0472674af7ec70b"
+  },
+  {
+    "path": "提示词素材库/018_03/01_后.png",
+    "bytes": 1650126,
+    "sha256": "3cd112213937801c9af481c5bb70b2f1c9516ed896f3a207c8105f9e6cd59b0d"
+  },
+  {
+    "path": "提示词素材库/018_03/README.md",
+    "bytes": 1410,
+    "sha256": "b41569f60393673787f7c5b6d31ef0c2850456210a9d467010086c3633a923f0"
+  },
+  {
+    "path": "提示词素材库/018_03/素材对应.json",
+    "bytes": 412,
+    "sha256": "a8b26e76209d9fc96cf876e8318cc47fe5fb23eff05b10723ff30693e8223d07"
+  },
+  {
+    "path": "提示词素材库/018_03/提示词.txt",
+    "bytes": 1214,
+    "sha256": "86985c2fa44a33d70d8bb4c05a04ed3fcfe10c721b8897b77c0e8ed4854afe96"
+  },
+  {
+    "path": "提示词素材库/018_03/01_前.png",
+    "bytes": 181225,
+    "sha256": "a053641fa7b3c70dc84a1736ff73fc30664482de3c4fcddefae8b2ccc1485a0b"
+  },
+  {
+    "path": "提示词素材库/041_01/02_后.png",
+    "bytes": 4314248,
+    "sha256": "380903e7ba46d39a4e27ed5ac98bac4d8d21976659f0fb9f835160959abd19db"
+  },
+  {
+    "path": "提示词素材库/041_01/03_后.png",
+    "bytes": 1461122,
+    "sha256": "b633406a4f304dd26a3cf5857b002f0e61a4495b33655e01ce280d6d3e15d1e2"
+  },
+  {
+    "path": "提示词素材库/041_01/01_后.png",
+    "bytes": 3251377,
+    "sha256": "80b9a93fec537636a688c790ee7257af46af610c834bd246a20b468603b73f65"
+  },
+  {
+    "path": "提示词素材库/041_01/README.md",
+    "bytes": 960,
+    "sha256": "81282aff88c6518c6c8c7a88f15dfddea149a7f372dba7f6c0144e8513af8a72"
+  },
+  {
+    "path": "提示词素材库/041_01/素材对应.json",
+    "bytes": 890,
+    "sha256": "bef71d0fa41c5072ad4c10b4fde526431c056c7a4b312cfc122160a176dbe0de"
+  },
+  {
+    "path": "提示词素材库/041_01/02_前.png",
+    "bytes": 4326550,
+    "sha256": "f5f133c1ae0edc3ba460489e07dd4c543a9c50f3e3f359eb03be09302883f413"
+  },
+  {
+    "path": "提示词素材库/041_01/提示词.txt",
+    "bytes": 599,
+    "sha256": "594f08ca3824647c6dfb59a7506a6906dc1806158227af94df76a7fdf02f4d75"
+  },
+  {
+    "path": "提示词素材库/041_01/03_前.png",
+    "bytes": 1481952,
+    "sha256": "06d9019cc7dcc9ba8247b9e15e80daba20950ac6985e721b8e5acb750e841afa"
+  },
+  {
+    "path": "提示词素材库/041_01/01_前.png",
+    "bytes": 3118349,
+    "sha256": "e02b99d821dfe10c854cf70145b8725426c03822c394559612910db8128616a0"
+  },
+  {
+    "path": "提示词素材库/010_01/02_后.png",
+    "bytes": 1009605,
+    "sha256": "0086aa330419f664cbc704a6f841d6768a2e9b4ed96b90a8f3ae4a094b1c54a7"
+  },
+  {
+    "path": "提示词素材库/010_01/03_后.png",
+    "bytes": 672997,
+    "sha256": "5411f2ca8bffbc4517e25f0907c330f14615327c7adc1afde8255cb6b5d862a1"
+  },
+  {
+    "path": "提示词素材库/010_01/01_后.png",
+    "bytes": 798099,
+    "sha256": "2b35c9c27ee84c69758f6894365913637a257dbaeefe1e075c694de8a37462af"
+  },
+  {
+    "path": "提示词素材库/010_01/README.md",
+    "bytes": 2632,
+    "sha256": "86263201503a3de1580d0de7ce1ea02907b8c1c6e2f4d4fa6eb81a388960b1a3"
+  },
+  {
+    "path": "提示词素材库/010_01/素材对应.json",
+    "bytes": 721,
+    "sha256": "8f480ac5550a9d141ed8265ec9d195921690cc692ae464bad54414c036bb41c6"
+  },
+  {
+    "path": "提示词素材库/010_01/02_前.png",
+    "bytes": 1341983,
+    "sha256": "ad873d05cedc48462b0664d4a6f6b4fe83fbfb9b6b92dc75c6da683b9d0c5faa"
+  },
+  {
+    "path": "提示词素材库/010_01/提示词.txt",
+    "bytes": 2257,
+    "sha256": "1586ccfdc3c8b4736afabefcf20dd91210242a0d40559ed2bdd20b2fd644074c"
+  },
+  {
+    "path": "提示词素材库/010_01/03_前.png",
+    "bytes": 645915,
+    "sha256": "7b4734fb291e79777fc299d0caf6331f85dc257fa8c169f244ae6a5b7d8d6a00"
+  },
+  {
+    "path": "提示词素材库/010_01/01_前.png",
+    "bytes": 869823,
+    "sha256": "85a18cb2a7946ff3028db33ead793703a98a6b47e3e5f71a55c4bb41c50b9a57"
+  },
+  {
+    "path": "提示词素材库/030_01/02_后.png",
+    "bytes": 4347268,
+    "sha256": "a9cea36f16800d7535c09e772195718a2c3846f01561dd4de9bbbbe4127f47e7"
+  },
+  {
+    "path": "提示词素材库/030_01/03_后.png",
+    "bytes": 3780311,
+    "sha256": "f5187eb55daa36c9babaa1f9f08a761306fbcf8a3ab2befd8d17937a0c0011ab"
+  },
+  {
+    "path": "提示词素材库/030_01/01_后.png",
+    "bytes": 3679624,
+    "sha256": "ba99ae46989216c82beeb32098878b49554d8000a5f9e40fdc3e39a929028b5e"
+  },
+  {
+    "path": "提示词素材库/030_01/README.md",
+    "bytes": 2028,
+    "sha256": "124d4de0c02eedda902f692169c4147f2cbf65c21616e904c80fef41af28715f"
+  },
+  {
+    "path": "提示词素材库/030_01/素材对应.json",
+    "bytes": 907,
+    "sha256": "bdb41fe27d343bc4e98bbdeda77de6905c9d3f542481b93cd4f7efd93b6dc2d4"
+  },
+  {
+    "path": "提示词素材库/030_01/02_前.png",
+    "bytes": 3606796,
+    "sha256": "f6c642a5edc51ec75c87dfaab296afea6a790e1bbe1fb997171552841087c5e1"
+  },
+  {
+    "path": "提示词素材库/030_01/提示词.txt",
+    "bytes": 1650,
+    "sha256": "2dbbb6b40814437ef8f1894765bb88d61cc003821d5e999fd0b388f62f261b72"
+  },
+  {
+    "path": "提示词素材库/030_01/03_前.png",
+    "bytes": 3474465,
+    "sha256": "4adb8d6ec118b5a30da531b555a3d33f9bafe9b351ebd4aad1d07b01ec175a1f"
+  },
+  {
+    "path": "提示词素材库/030_01/01_前.png",
+    "bytes": 3476984,
+    "sha256": "a7203219cadc528cbe879a68f77e94ab90a223badb014f7e627a8832ccc52d58"
+  },
+  {
+    "path": "提示词素材库/061_01/02_后.jpg",
+    "bytes": 341635,
+    "sha256": "654d6cd0204eda51da1dea3f849d652249737581e89e5ebf0d1ed93867720191"
+  },
+  {
+    "path": "提示词素材库/061_01/03_后.jpg",
+    "bytes": 475332,
+    "sha256": "ec1f3685cfb9b2f806eee52e72a529920394bf1bfcc99b2570c3a4e54171516a"
+  },
+  {
+    "path": "提示词素材库/061_01/01_后.jpg",
+    "bytes": 846148,
+    "sha256": "b42e9a9c17ba7c6f8c92e5a518219705140f69117e9e802bb7c97624b35c524d"
+  },
+  {
+    "path": "提示词素材库/061_01/README.md",
+    "bytes": 720,
+    "sha256": "c94f8e9f53ee291393f8ad668499d4735bd121063bcd51528f63ee328557405b"
+  },
+  {
+    "path": "提示词素材库/061_01/素材对应.json",
+    "bytes": 658,
+    "sha256": "0d465a768f3c9ff51d0d887f58b4b83c8a138ddac1662e71744d63f169ace5c3"
+  },
+  {
+    "path": "提示词素材库/061_01/02_前.jpg",
+    "bytes": 450483,
+    "sha256": "174a92088433bb87c1d3c184ee8f6120ad4564722197db06feeac7645000ec53"
+  },
+  {
+    "path": "提示词素材库/061_01/提示词.txt",
+    "bytes": 357,
+    "sha256": "bcaa7d3117528e2fa170def804f45889015d6f08e1fd8e0d6c42e900b7518266"
+  },
+  {
+    "path": "提示词素材库/061_01/03_前.jpg",
+    "bytes": 518025,
+    "sha256": "bbc911cdbaa9ff5fa0a6c81f81bd4af4f5511fc4d5706ce565f9f007b3d89b66"
+  },
+  {
+    "path": "提示词素材库/061_01/01_前.jpg",
+    "bytes": 993173,
+    "sha256": "fd53fc0864b4bc72f33dbdcc6c322b93be3452b087dbdeec7b1890d11107da4c"
+  },
+  {
+    "path": "提示词素材库/018_02/01_后.png",
+    "bytes": 1783042,
+    "sha256": "57d21c85ecd59b45cf39d081524bc9090bd4d4698ed806f178e5eda0819aa6ba"
+  },
+  {
+    "path": "提示词素材库/018_02/README.md",
+    "bytes": 1604,
+    "sha256": "ec153924668f0101382645250fa2538b14687099b9e97f79851e236ca2e470ab"
+  },
+  {
+    "path": "提示词素材库/018_02/素材对应.json",
+    "bytes": 407,
+    "sha256": "8955ceb5d2f45acc2801996024eb222484a501cbff6662ef733b8c2124e17082"
+  },
+  {
+    "path": "提示词素材库/018_02/提示词.txt",
+    "bytes": 1413,
+    "sha256": "23d12ca67a6084658682eaa330b1d0781565a0cd853c2f66ece5a87fc3f8f7b7"
+  },
+  {
+    "path": "提示词素材库/018_02/01_前.png",
+    "bytes": 234660,
+    "sha256": "305d1da88dc7196dd0edf461a9b06d2f0271f8594bfb69b98a2e2dff04db1efa"
+  },
+  {
+    "path": "提示词素材库/055_01/02_后.jpg",
+    "bytes": 296886,
+    "sha256": "3703566ad6b048b784cf9876dec1da2e43d5202bae980bd4e336945280a0a2af"
+  },
+  {
+    "path": "提示词素材库/055_01/03_后.jpg",
+    "bytes": 572407,
+    "sha256": "89db8d500d4b8e2df0c87f810fa191d298f0ae299cd808b8709595097f9c1941"
+  },
+  {
+    "path": "提示词素材库/055_01/01_后.jpg",
+    "bytes": 309221,
+    "sha256": "5c8073ef630be4fb26595bb1b089067cc6740036a7658220cf0853041469fee1"
+  },
+  {
+    "path": "提示词素材库/055_01/README.md",
+    "bytes": 1445,
+    "sha256": "18faee9b7394cada001f0c325d27c22851fbf3a697a31fa180ec26bb4d785399"
+  },
+  {
+    "path": "提示词素材库/055_01/素材对应.json",
+    "bytes": 628,
+    "sha256": "d81ec9f35c8fc340672e02dc5b1be2fbac1ac8c158a90855d79d1ae8a5f97a50"
+  },
+  {
+    "path": "提示词素材库/055_01/02_前.jpg",
+    "bytes": 339200,
+    "sha256": "5b7104f1d3893fd6a7cad299e8b31b26e0e1a425c8ba79ae95c7b7dc254a5eb0"
+  },
+  {
+    "path": "提示词素材库/055_01/提示词.txt",
+    "bytes": 1094,
+    "sha256": "e870391bb1656243f89960418c807e9b6c828d30e86ed95b80fbbe016ec89793"
+  },
+  {
+    "path": "提示词素材库/055_01/03_前.jpg",
+    "bytes": 684470,
+    "sha256": "69b0593a6f70ce253e08a4749737320a358ebb4377cc686f9fde7f84511966db"
+  },
+  {
+    "path": "提示词素材库/055_01/01_前.jpg",
+    "bytes": 372636,
+    "sha256": "dfad885776c1ed5f03a30921b9ffec5fc2bfc00d4419fadd7723eb8353536eeb"
+  },
+  {
+    "path": "提示词素材库/004_01/02_后.png",
+    "bytes": 1120849,
+    "sha256": "e5b49cfc30ec41e2afab52a85a8d8d53b85907ad7447b6e6c0fe80e4dad840be"
+  },
+  {
+    "path": "提示词素材库/004_01/03_后.png",
+    "bytes": 1530885,
+    "sha256": "7faafad116cb6de0751f18f0c85f3d3d5ad9abda8d274795403e4ef51d82e66e"
+  },
+  {
+    "path": "提示词素材库/004_01/01_后.png",
+    "bytes": 1193034,
+    "sha256": "5e4522f38cec3445c2233ba5342fba2b0dca380a6f8d986bc7441453b8b401d3"
+  },
+  {
+    "path": "提示词素材库/004_01/README.md",
+    "bytes": 1507,
+    "sha256": "a011e4cf57c84a702b92167abb199fa8715413757156eac44decd67ecdbb9765"
+  },
+  {
+    "path": "提示词素材库/004_01/素材对应.json",
+    "bytes": 721,
+    "sha256": "2b18e627afc394435f2caccf5655ef2171c7fe7e7221365fb84b146bc1619d70"
+  },
+  {
+    "path": "提示词素材库/004_01/02_前.png",
+    "bytes": 1272442,
+    "sha256": "d99c9bdbb77ecff67acb37ab428229712f4cbd37ad6b7325746f97758100449a"
+  },
+  {
+    "path": "提示词素材库/004_01/提示词.txt",
+    "bytes": 1123,
+    "sha256": "aa00e84edef3e4520a210990e742b00ccc5dba184b631984c82dc438182bddc7"
+  },
+  {
+    "path": "提示词素材库/004_01/03_前.png",
+    "bytes": 1959942,
+    "sha256": "8be9661beb27959f001121975402a832e96ff1743b8db32d58f9664dd69dce46"
+  },
+  {
+    "path": "提示词素材库/004_01/01_前.png",
+    "bytes": 1630374,
+    "sha256": "f6c5f9bd02469cca461c2c404252d210d9db08d55aa1117eaa4cda1061b29d18"
+  },
+  {
+    "path": "提示词素材库/014_01/02_后.png",
+    "bytes": 1828578,
+    "sha256": "ecf438a43c59bc84ff46266a089a0eecdc813bfcd6e307e4f868add8e37b7083"
+  },
+  {
+    "path": "提示词素材库/014_01/03_后.png",
+    "bytes": 2210603,
+    "sha256": "a44f8c61e448c64d6fd6cc61cbdf8bb1946652861d35d931de222f3951fe1d8d"
+  },
+  {
+    "path": "提示词素材库/014_01/01_后.png",
+    "bytes": 1526237,
+    "sha256": "ceba86a40a572d4ecddb98a871f598335c86373c106231dfb0a91c292787c72c"
+  },
+  {
+    "path": "提示词素材库/014_01/README.md",
+    "bytes": 1792,
+    "sha256": "14d119df39983df3071114018393572da34d3fa4f870ece427d86f7b58364e34"
+  },
+  {
+    "path": "提示词素材库/014_01/素材对应.json",
+    "bytes": 790,
+    "sha256": "6652a2f5a100464322620f6d6f6c82a6dd6c8722a2dd89b1cd4053ee13eefbdd"
+  },
+  {
+    "path": "提示词素材库/014_01/02_前.png",
+    "bytes": 1669561,
+    "sha256": "ba0e07e1c1a5ee95fe12ad50b719cc9f0e287e69757d1b4d16aa451c387c1300"
+  },
+  {
+    "path": "提示词素材库/014_01/提示词.txt",
+    "bytes": 1348,
+    "sha256": "1d4109a2784cde1ce53674076a5afa00dab60afae46dc59af61d762996bfe04b"
+  },
+  {
+    "path": "提示词素材库/014_01/03_前.png",
+    "bytes": 2232576,
+    "sha256": "2345e45564389a865366a661124c32c670c4d2f6cb8be2921c06baabc826606b"
+  },
+  {
+    "path": "提示词素材库/014_01/01_前.png",
+    "bytes": 1020460,
+    "sha256": "6893f932c58e6d0f67f7bd3d1220099e406de574850e38aa0843bd8e377cdbe5"
+  },
+  {
+    "path": "提示词素材库/045_01/02_后.png",
+    "bytes": 3206265,
+    "sha256": "955781e0b92cd6d921fae104812b011c1c645b9277c3c91c171f349fcce7e2be"
+  },
+  {
+    "path": "提示词素材库/045_01/03_后.png",
+    "bytes": 2740309,
+    "sha256": "636820d0bbb312e49b32b6df9f52564b64fbde7d58534d6a157bfd45bd1c58b0"
+  },
+  {
+    "path": "提示词素材库/045_01/01_后.png",
+    "bytes": 3750523,
+    "sha256": "6589fb21a48ac5e25270c62e25e8f626a3e6383bc08b7e97aa948846db49f6bc"
+  },
+  {
+    "path": "提示词素材库/045_01/README.md",
+    "bytes": 928,
+    "sha256": "555b34436af83e3c9688155e52376358b184fbee6d45c7a17915a675824ef2fc"
+  },
+  {
+    "path": "提示词素材库/045_01/素材对应.json",
+    "bytes": 893,
+    "sha256": "9898aa86b94137098136c2055516bd9d415346a1ba7496ad4d0b1ab72d7f0d2f"
+  },
+  {
+    "path": "提示词素材库/045_01/02_前.png",
+    "bytes": 2330572,
+    "sha256": "910803006942fc2f5ea0dfec76040670626835986c7cdda87c9a3608d1edd69f"
+  },
+  {
+    "path": "提示词素材库/045_01/提示词.txt",
+    "bytes": 564,
+    "sha256": "503e44d1853077d20c94e46ac41b6a8dc1747ad5ac2a68c3c02ec9bb979c2190"
+  },
+  {
+    "path": "提示词素材库/045_01/03_前.png",
+    "bytes": 1675325,
+    "sha256": "bb4c142d874b3a93f912389326868ddc143405dc75b4f64732511bec93730142"
+  },
+  {
+    "path": "提示词素材库/045_01/01_前.png",
+    "bytes": 3097474,
+    "sha256": "f55bb97282d54de032b8e17afb0b493d0240ec2880270ef760d24b53968e6a70"
+  },
+  {
+    "path": "提示词素材库/020_01/02_后.png",
+    "bytes": 1215341,
+    "sha256": "06b706d37964d0c574402f04a2aac743411d3e9a6f42494abe57f1b4bbec7d2a"
+  },
+  {
+    "path": "提示词素材库/020_01/03_后.png",
+    "bytes": 1434576,
+    "sha256": "2118db6aa114f4027d2167e216aa9af4871460a6493228f1d29c2e59c077cf03"
+  },
+  {
+    "path": "提示词素材库/020_01/01_后.png",
+    "bytes": 1121657,
+    "sha256": "d2609c6c25490799d3c854f38b84a1d08b48095b70770d39e4d7af2c46753aba"
+  },
+  {
+    "path": "提示词素材库/020_01/README.md",
+    "bytes": 1270,
+    "sha256": "f6ff3841d48c824c31ecfd3ecf51fba845b1863dc560f9a6cc4478d5b61e856d"
+  },
+  {
+    "path": "提示词素材库/020_01/素材对应.json",
+    "bytes": 727,
+    "sha256": "39e5e3141dd7f3ff16cefcec569820e76e9d908b2e26bbf9639ef4adc70f05cd"
+  },
+  {
+    "path": "提示词素材库/020_01/02_前.png",
+    "bytes": 1215324,
+    "sha256": "9bd5e4f0f6c7238e2d65f05c85d5323065947af511448cadf19723c823ea5aa0"
+  },
+  {
+    "path": "提示词素材库/020_01/提示词.txt",
+    "bytes": 889,
+    "sha256": "c110e9db47c28d06e9e6428d8fb9aa13f73a6a2b7e4e48d11c7c92395d20039d"
+  },
+  {
+    "path": "提示词素材库/020_01/03_前.png",
+    "bytes": 1676341,
+    "sha256": "799980d90d6373de5ce2d5167f41a4856ef45a89ec2d82aa7db24b94d5fe2b1f"
+  },
+  {
+    "path": "提示词素材库/020_01/01_前.png",
+    "bytes": 1124005,
+    "sha256": "5ff94a0786f3527d0b2677b5c4408775905c6c0bbe98c9de3e3979ef0795158f"
+  }
+]

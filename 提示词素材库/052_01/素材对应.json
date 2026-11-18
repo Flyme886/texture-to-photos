@@ -1,0 +1,30 @@
+{
+  "编号": "052_01",
+  "名称": "复古胶片感 | 提示词",
+  "分类": "胶片复古与相机色彩",
+  "提示词文件": "提示词.txt",
+  "照片组数": 3,
+  "对比": [
+    {
+      "group": 1,
+      "status": "已配对",
+      "before": "01_前.jpg",
+      "after": "01_后.jpg",
+      "说明": "上Before/下After"
+    },
+    {
+      "group": 2,
+      "status": "已配对",
+      "before": "02_前.jpg",
+      "after": "02_后.jpg",
+      "说明": "上Before/下After"
+    },
+    {
+      "group": 3,
+      "status": "已配对",
+      "before": "03_前.jpg",
+      "after": "03_后.jpg",
+      "说明": "上Before/下After"
+    }
+  ]
+}
