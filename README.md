@@ -26,7 +26,7 @@
 
 ## 快速开始
 
-**作为 Skill 使用**：下载 [Releases](../../releases) 里的 `texture-to-photos.zip`（或直接复制 [`skill/texture-to-photos`](skill/texture-to-photos) 文件夹），放进你的 Agent 的 skills 目录。在 Claude 里也可以直接上传这个 zip 作为 Skill。之后发一张照片说「帮我修一下」即可。
+**作为 Skill 使用**：把 [`skill/texture-to-photos`](skill/texture-to-photos) 整个文件夹放进你的 Agent 的 skills 目录；在 Claude 里也可以把这个文件夹打包成 zip 上传为 Skill。之后发一张照片说「帮我修一下」即可。
 
 **只想要提示词**：打开 [风格库](#风格库) 里任意一个风格，复制 `prompt.txt`，和你的照片一起发给豆包、即梦或 GPT 的图片编辑。
 
