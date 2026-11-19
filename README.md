@@ -1,18 +1,41 @@
-<p align="center"><img src="assets/hero.jpg" width="100%"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.jpg">
+  <img src="assets/hero.jpg" width="100%" alt="照片质感 · 提示词库">
+</picture>
 
 <p align="center">
 <b>上传一张照片，直接给你三种质感。</b><br>
-<sub>30 种 AI 修图风格 · 适配豆包 / 即梦 / GPT 等图像编辑模型 · 附 Agent Skill</sub>
+<sub>32 种精选 AI 修图风格 · 适配豆包 / 即梦 / GPT 等图像编辑模型 · 附开箱即用的 Agent Skill</sub>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/styles-32-1a1a1a?style=flat-square">
+<img src="https://img.shields.io/badge/curated_from-70_prompts-8a7a5c?style=flat-square">
+<img src="https://img.shields.io/badge/output-A_·_B_·_C-3d5a5b?style=flat-square">
+<img src="https://img.shields.io/badge/Agent-Skill-b8743a?style=flat-square">
+</p>
+
+<p align="center">
+<a href="#快速开始">快速开始</a> ·
+<a href="#它怎么用">它怎么用</a> ·
+<a href="#风格库">风格库</a> ·
+<a href="skill/texture-to-photos/SKILL.md">SKILL.md</a>
 </p>
 
 ---
+
+## 快速开始
+
+**作为 Skill 使用**：下载 [Releases](../../releases) 里的 `texture-to-photos.zip`（或直接复制 [`skill/texture-to-photos`](skill/texture-to-photos) 文件夹），放进你的 Agent 的 skills 目录。在 Claude 里也可以直接上传这个 zip 作为 Skill。之后发一张照片说「帮我修一下」即可。
+
+**只想要提示词**：打开 [风格库](#风格库) 里任意一个风格，复制 `prompt.txt`，和你的照片一起发给豆包、即梦或 GPT 的图片编辑。
 
 ## 它怎么用
 
 把 [`skill/texture-to-photos`](skill/texture-to-photos) 装进你的 Agent（任何带图像编辑能力的 Agent 都行），然后**只需要发一张照片**。
 
 1. **看图** —— Agent 判断题材、光线和原片的问题，比如「街景 · 阴天 · 画面偏灰」。
-2. **挑三种** —— 从 30 种风格里按三个档位各挑一种，保证三张图一眼看上去就不一样：
+2. **挑三种** —— 从 32 种风格里按三个档位各挑一种，保证三张图一眼看上去就不一样：
 
    | 档位 | 做什么 | 例子 |
    |---|---|---|
@@ -24,13 +47,18 @@
 
 也可以直接点名，比如「用暮色琥珀修这张」，就只出那一种。
 
+**一组照片也行。** 发九宫格或一组旅行照，先用其中一张试三种风格，选定后整组统一色调，按顺序交付；哪张不满意说编号单独返工。
+
+**人像有专门的照顾。** 人像照片的稳妥档默认用「清透白开水」（带轻微美颜），合影不会被修成剪影或油画；有人物的照片只加一句约束：人物保持本人长相。
+
 ## 风格库
 
 ### A · 稳妥
 <table>
 <tr><td width="33%" valign="top"><a href="styles/001_01-%E5%8D%95%E8%BD%B4%E6%B7%B1%E5%BD%B1%E5%BC%A0%E5%8A%9B"><img src="styles/001_01-%E5%8D%95%E8%BD%B4%E6%B7%B1%E5%BD%B1%E5%BC%A0%E5%8A%9B/cover.jpg"></a><br><b>单轴深影张力</b><br><sub>沿一条全局明暗轴大块羽化压暗，暗部近黑、亮侧连续铺开，天…</sub></td><td width="33%" valign="top"><a href="styles/014_01-%E9%95%9C%E5%A4%B4%E5%8E%9F%E7%94%9F%E5%8E%BB%E7%81%B0"><img src="styles/014_01-%E9%95%9C%E5%A4%B4%E5%8E%9F%E7%94%9F%E5%8E%BB%E7%81%B0/cover.jpg"></a><br><b>镜头原生去灰</b><br><sub>去灰去雾、色彩纯度与分离提升，蓝天更净、黄叶更浓，明暗层…</sub></td><td width="33%" valign="top"><a href="styles/018_01-%E6%97%85%E8%A1%8C%E6%B8%85%E9%80%8F%E8%93%9D%E5%A4%A9"><img src="styles/018_01-%E6%97%85%E8%A1%8C%E6%B8%85%E9%80%8F%E8%93%9D%E5%A4%A9/cover.jpg"></a><br><b>旅行清透蓝天</b><br><sub>提亮中间调，灰白天空换成通透蓝天白云，绿色自然、中性色干…</sub></td></tr>
-<tr><td width="33%" valign="top"><a href="styles/027_01-%E6%97%A5%E5%85%89%E6%9F%AF%E8%BE%BE%E6%98%8E%E4%BA%AE"><img src="styles/027_01-%E6%97%A5%E5%85%89%E6%9F%AF%E8%BE%BE%E6%98%8E%E4%BA%AE/cover.jpg"></a><br><b>日光柯达明亮</b><br><sub>明亮暖调负片：蓝天转浅青水蓝、白色与雪转奶油暖米、暖色更…</sub></td><td width="33%" valign="top"><a href="styles/038_01-%E6%B8%85%E9%80%8F%E8%96%84%E8%8D%B7%E7%A9%BA%E6%B0%94"><img src="styles/038_01-%E6%B8%85%E9%80%8F%E8%96%84%E8%8D%B7%E7%A9%BA%E6%B0%94/cover.jpg"></a><br><b>清透薄荷空气</b><br><sub>高调提亮、暗部抬升，色彩转为浅天青/薄荷绿松石与米白，低…</sub></td><td width="33%" valign="top"><a href="styles/041_01-%E7%BB%8F%E5%85%B8%E6%AD%A3%E7%89%87%E7%9B%B8%E6%9C%BA%E8%89%B2"><img src="styles/041_01-%E7%BB%8F%E5%85%B8%E6%AD%A3%E7%89%87%E7%9B%B8%E6%9C%BA%E8%89%B2/cover.jpg"></a><br><b>经典正片相机色</b><br><sub>降鲜艳、绿转橄榄灰、蓝收青灰，阴影冷灰、中间调有反差，克…</sub></td></tr>
-<tr><td width="33%" valign="top"><a href="styles/056_01-%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%B5%93%E9%83%81"><img src="styles/056_01-%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%B5%93%E9%83%81/cover.jpg"></a><br><b>国家地理浓郁</b><br><sub>饱和偏高、对比硬朗，天空压出厚重云层，绿植深绿、秋叶橙金…</sub></td><td width="33%" valign="top"><a href="styles/058_01-%E7%94%B5%E5%BD%B1%E9%9D%92%E6%A9%99"><img src="styles/058_01-%E7%94%B5%E5%BD%B1%E9%9D%92%E6%A9%99/cover.jpg"></a><br><b>电影青橙</b><br><sub>干净明亮的经典青橙：阴影/天空偏青绿，灯光与肤色暖橙，中…</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="styles/027_01-%E6%97%A5%E5%85%89%E6%9F%AF%E8%BE%BE%E6%98%8E%E4%BA%AE"><img src="styles/027_01-%E6%97%A5%E5%85%89%E6%9F%AF%E8%BE%BE%E6%98%8E%E4%BA%AE/cover.jpg"></a><br><b>日光柯达明亮</b><br><sub>明亮暖调负片：蓝天转浅青水蓝、白色与雪转奶油暖米、暖色更…</sub></td><td width="33%" valign="top"><a href="styles/038_01-%E6%B8%85%E9%80%8F%E8%96%84%E8%8D%B7%E7%A9%BA%E6%B0%94"><img src="styles/038_01-%E6%B8%85%E9%80%8F%E8%96%84%E8%8D%B7%E7%A9%BA%E6%B0%94/cover.jpg"></a><br><b>清透薄荷空气</b><br><sub>高调提亮、暗部抬升，色彩转为浅天青/薄荷绿松石与米白，低…</sub></td><td width="33%" valign="top"><a href="styles/039_01-%E6%97%A5%E7%B3%BB%E7%BA%AA%E5%AE%9E%E6%9F%94%E5%92%8C"><img src="styles/039_01-%E6%97%A5%E7%B3%BB%E7%BA%AA%E5%AE%9E%E6%9F%94%E5%92%8C/cover.jpg"></a><br><b>日系纪实柔和</b><br><sub>整体偏亮低对比，阴影抬起，绿转灰绿、蓝转淡青，米白相册纸…</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="styles/040_01-%E6%B8%85%E9%80%8F%E7%99%BD%E5%BC%80%E6%B0%B4%E4%BA%BA%E5%83%8F"><img src="styles/040_01-%E6%B8%85%E9%80%8F%E7%99%BD%E5%BC%80%E6%B0%B4%E4%BA%BA%E5%83%8F/cover.jpg"></a><br><b>清透白开水人像</b><br><sub>肤色透白匀净、轻微美颜，背景去杂色带淡淡浅蓝灰，柔和窗光…</sub></td><td width="33%" valign="top"><a href="styles/041_01-%E7%BB%8F%E5%85%B8%E6%AD%A3%E7%89%87%E7%9B%B8%E6%9C%BA%E8%89%B2"><img src="styles/041_01-%E7%BB%8F%E5%85%B8%E6%AD%A3%E7%89%87%E7%9B%B8%E6%9C%BA%E8%89%B2/cover.jpg"></a><br><b>经典正片相机色</b><br><sub>降鲜艳、绿转橄榄灰、蓝收青灰，阴影冷灰、中间调有反差，克…</sub></td><td width="33%" valign="top"><a href="styles/056_01-%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%B5%93%E9%83%81"><img src="styles/056_01-%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E6%B5%93%E9%83%81/cover.jpg"></a><br><b>国家地理浓郁</b><br><sub>饱和偏高、对比硬朗，天空压出厚重云层，绿植深绿、秋叶橙金…</sub></td></tr>
+<tr><td width="33%" valign="top"><a href="styles/058_01-%E7%94%B5%E5%BD%B1%E9%9D%92%E6%A9%99"><img src="styles/058_01-%E7%94%B5%E5%BD%B1%E9%9D%92%E6%A9%99/cover.jpg"></a><br><b>电影青橙</b><br><sub>干净明亮的经典青橙：阴影/天空偏青绿，灯光与肤色暖橙，中…</sub></td></tr>
 </table>
 
 ### B · 氛围
@@ -51,11 +79,11 @@
 
 每个风格目录里有：完整提示词（`prompt.txt`）、适用题材与禁忌，以及原作者的前后对比照片。
 
-## 这 30 种是怎么来的
+## 这 32 种是怎么来的
 
 原始收集了 70 份提示词。逐份看过前后对比后，把观感相近的归成一簇，每簇只留成片最好、提示词最通用的一份：
 
-- **35 份并入同类**：例如 7 份「深青环境 + 琥珀受光」统一保留为「暮色琥珀」，5 份冷暗都市保留为「暗调高彩」。
+- **33 份并入同类**：例如 7 份「深青环境 + 琥珀受光」统一保留为「暮色琥珀」，5 份冷暗都市保留为「暗调高彩」。
 - **5 份移除**：前后差别过小，或提示词绑定了特定场景（摩托车、视频），无法迁移到别人的照片。
 - **有独立辨识度的一律保留**，哪怕题材很窄——比如只适合水面的「墨青碎金」、只适合花卉的「暗调墨绿花」。
 

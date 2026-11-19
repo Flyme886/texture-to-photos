@@ -308,7 +308,7 @@ def build_hero(items, repo, out_dir, th, ratio=None):
         draw_text(draw, (x + cw, y + ch + 36), f"{it.get('slot', '').upper()}",
                   small_f, th["faint"], track=2, anchor="rs")
 
-    draw_text(draw, (W / 2, H - 56), "30 STYLES  ·  A / B / C", small_f,
+    draw_text(draw, (W / 2, H - 56), "32 STYLES  ·  A / B / C", small_f,
               th["faint"], track=5, anchor="ms")
 
     path = out_dir / "hero.jpg"
